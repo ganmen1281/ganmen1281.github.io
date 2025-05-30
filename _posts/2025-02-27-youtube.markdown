@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Youtube『ganmen1281』はじめました。"
+date: 2025-02-27 00:00:00 +0800
+categories: HOBBY
+author: Ganmen1281
+tags:
+  - hobby
+---
+運営中です。登録者5000人突破。
+
+<!--description-->
+
+驚いてほしいのですが、趣味で始めたYoutubeが『30万回再生』を記録しました。開設3日で登録者が1000人を突破。現在は好きなタイミングで動画を公開する事にしていますが、2025-05-27時点で登録者は7000人を記録しています。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N0Ue-5XJEkg?si=5H8UvytcTEBfxUVB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NVhXADpAWVo?si=Xx91sjQbR2c0d3gM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+マニアックなジャンルの、マニアックな事ばかりを纏めて、テレビ番組の様にテンポよく編集していたら、いつの間にか沢山の方に見てもらえる様になりました。
+
+合成音声による解説動画の技術指南...みたいなモノは世に全く転がっていないので、完全に独学での制作になります。映画やPVの編集能力ばかり身に付けていましたが、それが全く通用しない世界です。
+
+使用したソフトについては『Adobe Premire Pro(以下プレミア)』と『VOICEBOX』の2つになります。
+
+台本制作～VOICEBOXで合成音声作成、プレミアで立ち絵とテロップを差し込んだ後、音声を合わせて、画面内に表示される映像を『うまいこと』編集する...。
+
+基本的なワークフローはコレなのですが、どうにも合成音声の編集は『ゆっくりムービーメーカー2』なるソフトが有用らしく、プレミアを利用した編集法を実戦しているこの手の投稿者は少ないようです。というのも、僕の手に馴染んでしまっているのがプレミアであるというだけなのですが...。
+
+プレミアでやる欠点は、やはり合成音声素材と字幕が一体化していないが故の弊害が多い事ですね。台本書いてりゃ何とかなりますが。
+
+解説内容に幅を持たせれば、まだまだ活かせそうなチャンネルではあります。
+
+
+
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
