@@ -21,7 +21,7 @@
 title: Ganmen1281 portfolio
 email: ganmen1281douga@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  本サイトはganmen1281の自己紹介を兼ねたポートフォリオサイトです。
+  本サイトはGanmen1281の自己紹介を兼ねたポートフォリオサイトです。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ganmen1281

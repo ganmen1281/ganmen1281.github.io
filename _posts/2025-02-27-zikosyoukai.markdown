@@ -47,3 +47,5 @@ peelのオレンジ味を頂いたのにも関わらず、現場に忘れてき�
 [大塚敏郎]: https://toshime.github.io/
 [後藤汰誓]:   https://gototaisei.ochakumi.com/
 [石山遼]: https://rishiyama.github.io/
+
+<p><small>&copy; {{ "now" | date: "%Y" }} Ganmen1281. All rights reserved.</small></p>

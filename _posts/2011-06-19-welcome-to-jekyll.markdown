@@ -31,3 +31,5 @@ NX-5Rを使用した撮影だったと記憶しています。技術的に拘っ
 [ラジエーションカレッジ2023]: https://www.env.go.jp/chemi/rhm/portal/communicate/college/r5.html
 [ぐぐるプロジェクト]:   https://www.env.go.jp/chemi/rhm/portal/communicate/
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+<p><small>&copy; {{ "now" | date: "%Y" }} Ganmen1281. All rights reserved.</small></p>

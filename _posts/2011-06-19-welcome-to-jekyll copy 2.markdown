@@ -31,3 +31,5 @@ tags:
 [ラジエーションカレッジ2023]: https://www.env.go.jp/chemi/rhm/portal/communicate/college/r5.html
 [ぐぐるプロジェクト]:   https://www.env.go.jp/chemi/rhm/portal/communicate/
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+<p><small>&copy; {{ "now" | date: "%Y" }} Ganmen1281. All rights reserved.</small></p>

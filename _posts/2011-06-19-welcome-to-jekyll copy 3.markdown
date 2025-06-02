@@ -39,3 +39,5 @@ tags:
 [三池敏夫]:   https://x.com/MiikeTmkaa
 [https://mantan-web.jp/article/20240329dog00m200074000c.html]: https://mantan-web.jp/article/20240329dog00m200074000c.html
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+<p><small>&copy; {{ "now" | date: "%Y" }} Ganmen1281. All rights reserved.</small></p>

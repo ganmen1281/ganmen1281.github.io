@@ -57,3 +57,5 @@ tags:
 [ZV-E10Ⅱ]: https://kakaku.com/item/J0000045185/
 [α7]:   https://kakaku.com/camera/digital-slr-camera/itemlist.aspx?pdf_subse=252
 [石山遼]: https://rishiyama.github.io/
+
+<p><small>&copy; {{ "now" | date: "%Y" }} Ganmen1281. All rights reserved.</small></p>

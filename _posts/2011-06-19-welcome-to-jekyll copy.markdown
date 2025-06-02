@@ -50,3 +50,5 @@ tags:
 [認定NPO法人アニメ特撮アーカイブ機構]: https://atac.or.jp/
 [三池敏夫]:   https://x.com/MiikeTmkaa
 [https://news.mynavi.jp/article/20230422-2660431/]:　https://news.mynavi.jp/article/20230422-2660431/
+
+<p><small>&copy; {{ "now" | date: "%Y" }} Ganmen1281. All rights reserved.</small></p>
