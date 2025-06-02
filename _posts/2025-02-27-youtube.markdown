@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Youtube『ganmen1281』はじめました。"
+title:  "Youtubeはじめました。"
 date: 2025-02-27 00:00:00 +0800
 categories: HOBBY
 author: Ganmen1281
