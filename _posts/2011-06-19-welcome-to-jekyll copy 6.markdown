@@ -29,8 +29,8 @@ tags:
 ![]({{site.baseurl}}/assets/img/3人.jpg)
 左から僕、コブトリ、アニーさんです。
 
-![]({{site.baseurl}}/assets/img/集合.jpg)
-原口さんと顔面ハプニング's
+![]({{site.baseurl}}/assets/img/haraguchi.jpg)
+原口さんと顔面ハプニング
 
 [ラジエーションカレッジ2023]: https://www.env.go.jp/chemi/rhm/portal/communicate/college/r5.html
 [ぐぐるプロジェクト]:   https://www.env.go.jp/chemi/rhm/portal/communicate/
