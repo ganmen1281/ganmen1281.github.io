@@ -2,7 +2,7 @@
 layout: post
 title:  "環境省ぐぐるプロジェクト・ワークショップに参加しました。"
 date: 2024-03-31 00:00:00 +0800
-categories: works
+categories: 携わったもの,出演
 author: Ganmen1281
 tags:
   - act

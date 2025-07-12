@@ -2,7 +2,7 @@
 layout: post
 title:  "Noteやってます。"
 date: 2025-02-27 00:00:00 +0800
-categories: HOBBY
+categories: 携わったもの,趣味など
 author: Ganmen1281
 tags:
   - hobby

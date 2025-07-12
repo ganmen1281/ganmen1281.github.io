@@ -2,7 +2,7 @@
 layout: post
 title:  "『Composite Sample Share“After Party”』の配信業務を担当しました。"
 date: 2025-06-21 00:00:00 +0800
-categories: works
+categories: 携わったもの,映像
 author: Ganmen1281
 tags:
   - works

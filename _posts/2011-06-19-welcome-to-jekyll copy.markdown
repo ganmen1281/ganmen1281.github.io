@@ -2,7 +2,7 @@
 layout: post
 title:  "テレビ朝日系『博士ちゃん』2023-04-22に出演しました。"
 date: 2023-04-22 00:00:00 +0800
-categories: Act
+categories: 出演
 author: Ganmen1281
 tags:
   - act

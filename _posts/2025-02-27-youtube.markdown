@@ -2,7 +2,7 @@
 layout: post
 title:  "Youtubeはじめました。"
 date: 2025-02-27 00:00:00 +0800
-categories: HOBBY
+categories: 携わったもの,趣味など
 author: Ganmen1281
 tags:
   - hobby
@@ -11,7 +11,7 @@ tags:
 
 <!--description-->
 
-驚いてほしいのですが、趣味で始めたYoutubeが『30万回再生』を記録しました。開設3日で登録者が1000人を突破。現在は好きなタイミングで動画を公開する事にしていますが、2025-05-27時点で登録者は7000人を記録しています。
+驚いてほしいのですが、趣味で始めたYoutubeが30万回再生を記録しました。開設3日で登録者が1000人を突破。現在は好きなタイミングで動画を公開する事にしていますが、2025-05-27時点で登録者は7000人を記録しています。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N0Ue-5XJEkg?si=5H8UvytcTEBfxUVB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

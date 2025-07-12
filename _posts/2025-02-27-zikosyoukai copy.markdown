@@ -2,7 +2,7 @@
 layout: post
 title:  "BitSummit Drift 2024に配信スタッフで参加しました。"
 date: 2024-07-19 00:00:00 +0800
-categories: works
+categories: 携わったもの,映像
 author: Ganmen1281
 tags:
   - works

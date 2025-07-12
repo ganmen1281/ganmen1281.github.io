@@ -2,7 +2,7 @@
 layout: post
 title:  "環境省ぐぐるプロジェクト・ラジエーションカレッジ2023・ショート動画を撮りました。"
 date: 2024-02-29 00:00:00 +0800
-categories: works
+categories: 携わったもの,映像
 author: Ganmen1281
 tags:
   - works

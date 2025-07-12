@@ -2,7 +2,7 @@
 layout: post
 title:  "未踏IT人材発掘・育成事業内プロジェクト『ユーザとモノのネットワーク体験を創作するためのARシステム』成果発表用映像を撮りました。"
 date: 2025-04-22 00:00:00 +0800
-categories: works
+categories: 携わったもの,映像
 author: Ganmen1281
 tags:
   - works

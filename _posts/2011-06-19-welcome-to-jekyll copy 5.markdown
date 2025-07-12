@@ -2,7 +2,7 @@
 layout: post
 title:  "『おお阪 in da party』の配信業務を担当しました。"
 date: 2025-05-29 00:00:00 +0800
-categories: works
+categories: 携わったもの,映像
 author: Ganmen1281
 tags:
   - works
