@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AviUtl2の導入失敗"
-date: 2025-07-12 00:00:00 +0800
+date: 2025-07-11 00:00:00 +0800
 categories: 雑記
 author: Ganmen1281
 tags:
