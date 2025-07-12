@@ -42,7 +42,16 @@ Jekyllを使用しています。ネットに転がっていた格好の良い�
   {% for post in book_posts %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
+  </ul>
+
+{% assign movie_posts = site.posts | where_exp: "post", "post.tags contains 'zakki'" %}
+<h2>雑記</h2>
+<ul>
+  {% for post in movie_posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
 </ul>
+
 <br>
 Twitter: (at) ganmen1281  
 Mail:ganmen1281douga (at) gmail.com  
