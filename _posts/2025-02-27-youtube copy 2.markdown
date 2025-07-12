@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AviUtl2の導入失敗・PCを新調すべきか？"
+title:  "AviUtl2の導入失敗"
 date: 2025-07-12 00:00:00 +0800
 categories: 携わったもの,趣味など
 author: Ganmen1281
