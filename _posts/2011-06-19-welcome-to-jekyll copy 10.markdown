@@ -1,0 +1,56 @@
+---
+layout: post
+title: "顔面ハプニング'sとは？"
+tags: [intro]
+author: Ganmen1281
+---
+
+全国に偏在する配信・撮影の技術集団。
+
+チームで動く際には何かとお世話になる面々です。本項では参加してもらった皆様をver.毎にクレジットしています。
+
+# 顔面ハプニング's (ver.1.0)
+顔面ハプニング:スイッチャー・技術統括
+[喜多]:カメラ
+[hasaka]:アシスタント
+
+# 顔面ハプニング's (ver.1.0.1)
+顔面ハプニング:スイッチャー・技術統括
+[喜多]:カメラ
+[hasaka]:アシスタント
+[コブトリ]:テクニカルサポート
+[Annie beatz]:サウンドアシスタント
+
+# 顔面ハプニング's (ver.2.0)
+顔面ハプニング:スイッチャー・技術統括
+[喜多]:カメラディレクタ
+[Annie beatz]:サウンドアシスタント
+[菊川倖輝]:サウンドディレクタ
+[そーど]:アシスタント
+[わい]:アシスタント
+byakko:テクニカルアシスタント
+
+# 顔面ハプニング's (ver.九州.0.1)
+顔面ハプニング:カメラ
+[JDID]:カメラ
+
+![]({{site.baseurl}}/assets/img/ganmens.jpg)
+
+![]({{site.baseurl}}/assets/img/ganmens2.jpg)
+
+![]({{site.baseurl}}/assets/img/ganmens3.jpg)
+
+![]({{site.baseurl}}/assets/img/ganmens4.jpg)
+
+ [トップページに戻る]({{ "/" | relative_url }})
+
+ [喜多]: https://m.youtube.com/@紀淡海峡/videos?fbclid=PAQ0xDSwL1INZleHRuA2FlbQIxMAABp0CFIxDmtYZrmKCvueG2LfZ16Swg1o8OjSXJNDp6zACmdAy6wmp2zaZohFoC_aem_eKzHv--5e-83c65KlqszIQ
+ [hasaka]: https://x.com/fasaka_2
+ [Annie beatz]: https://x.com/Annie_beatz
+[コブトリ]: https://x.com/mellorine062
+[菊川倖輝]: https://www.instagram.com/k5i2u2a2o?igsh=Y3Nqa3Z6cTNoamR0
+[そーど]: https://x.com/sword_aiueo0917
+[わい]: https://x.com/wauwauw_au
+[JDID]: https://www.instagram.com/jdid_.66?igsh=eTExaG5yaG5yejIw
+
+<p><small>&copy; {{ "now" | date: "%Y" }} Ganmen1281. All rights reserved.</small></p>
