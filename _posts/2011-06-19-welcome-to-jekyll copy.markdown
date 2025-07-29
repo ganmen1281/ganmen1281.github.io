@@ -2,7 +2,7 @@
 layout: post
 title:  "テレビ朝日系『博士ちゃん』2023-04-22に出演しました。"
 date: 2023-04-22 00:00:00 +0800
-categories: 出演
+categories: 携わったもの,出演
 author: Ganmen1281
 tags:
   - act
@@ -46,6 +46,8 @@ tags:
 番組制作に携わっていた全ての方々、本当にありがとうございました。
 
 また、当時視聴してくださった皆々様にも、感謝を。
+
+ [トップページに戻る]({{ "/" | relative_url }})
 
 [認定NPO法人アニメ特撮アーカイブ機構]: https://atac.or.jp/
 [三池敏夫]:   https://x.com/MiikeTmkaa

@@ -28,6 +28,8 @@ NX-5Rを使用した撮影だったと記憶しています。技術的に拘っ
 
 当時は学生身分で、まだまだ出来るだろうという側面も幾つか見られるのですが、それでも企画・演出のインパクトが刺さったのは嬉しいことです。
 
+ [トップページに戻る]({{ "/" | relative_url }})
+
 [ラジエーションカレッジ2023]: https://www.env.go.jp/chemi/rhm/portal/communicate/college/r5.html
 [ぐぐるプロジェクト]:   https://www.env.go.jp/chemi/rhm/portal/communicate/
 [jekyll-talk]: https://talk.jekyllrb.com/

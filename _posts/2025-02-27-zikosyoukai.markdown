@@ -43,6 +43,7 @@ peelのオレンジ味を頂いたのにも関わらず、現場に忘れてき�
 
 ![]({{site.baseurl}}/assets/img/monokko2.jpg)
 
+ [トップページに戻る]({{ "/" | relative_url }})
 
 [大塚敏郎]: https://toshime.github.io/
 [後藤汰誓]:   https://gototaisei.ochakumi.com/

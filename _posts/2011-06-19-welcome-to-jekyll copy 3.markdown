@@ -35,6 +35,8 @@ tags:
 
 最後に、番組制作陣の皆様、番組内でも何から何までお世話になり、色々なお話をしてくださったゴジラルームの[清水俊文]さん、本当にありがとうございました。
 
+ [トップページに戻る]({{ "/" | relative_url }})
+
 [清水俊文]: https://x.com/nmakapa
 [三池敏夫]:   https://x.com/MiikeTmkaa
 [https://mantan-web.jp/article/20240329dog00m200074000c.html]: https://mantan-web.jp/article/20240329dog00m200074000c.html

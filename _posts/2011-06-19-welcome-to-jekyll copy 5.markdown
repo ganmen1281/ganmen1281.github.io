@@ -36,6 +36,8 @@ tags:
 
 演者さんにも好評であったらしく、様々な方々からお褒めの言葉を頂き、大変光栄でした。
 
+ [トップページに戻る]({{ "/" | relative_url }})
+
 ![]({{site.baseurl}}/assets/img/annai2.png)
 
 ![]({{site.baseurl}}/assets/img/annnai3.png)

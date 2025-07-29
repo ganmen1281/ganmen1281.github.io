@@ -305,6 +305,8 @@ youtubeで投稿された『ようかい体操第一』は恐ろしいブーム�
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7D2va05qRgBMe2Q1WKjnpr?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+ [トップページに戻る]({{ "/" | relative_url }})
+
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "『Composite Sample Share“After Party”』の配信業務を担当しました。"
+title:  "GALLERIA × 原口沙輔『Composite Sample Share“After Party”』の配信業務を担当しました。"
 date: 2025-06-21 00:00:00 +0800
 categories: 携わったもの,映像
 author: Ganmen1281
@@ -23,6 +23,8 @@ HDMIは映像と共に音信号も持っていきますが、V-8HDからの出�
 非常に緻密な音量調整を必要とした配信でしたが、[Annie beatz]と菊川の抜群のコンビネーションでこれを可能にしました、非常に感謝。
 
 また、ブラックマジックとSonyの色合わせを中心に、様々な要望に応えてくれたカメラマン喜多に改めて感謝を。
+
+ [トップページに戻る]({{ "/" | relative_url }})
 
 
 [原口沙輔]: https://x.com/sasuke_maschine

@@ -31,6 +31,8 @@ tags:
 
 解説内容に幅を持たせれば、まだまだ活かせそうなチャンネルではあります。
 
+ [トップページに戻る]({{ "/" | relative_url }})
+
 
 
 [jekyll-docs]: http://jekyllrb.com/docs/home

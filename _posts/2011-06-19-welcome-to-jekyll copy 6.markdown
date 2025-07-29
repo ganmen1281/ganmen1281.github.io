@@ -32,6 +32,8 @@ tags:
 ![]({{site.baseurl}}/assets/img/haraguchi.jpg)
 原口さんと顔面ハプニング
 
+ [トップページに戻る]({{ "/" | relative_url }})
+
 [ラジエーションカレッジ2023]: https://www.env.go.jp/chemi/rhm/portal/communicate/college/r5.html
 [ぐぐるプロジェクト]:   https://www.env.go.jp/chemi/rhm/portal/communicate/
 [jekyll-talk]: https://talk.jekyllrb.com/

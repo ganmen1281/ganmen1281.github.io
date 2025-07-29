@@ -24,6 +24,8 @@ tags:
 
 <iframe class="note-embed" src="https://note.com/embed/notes/nbe9e4751c1bd" style="border: 0; display: block; max-width: 99%; width: 494px; padding: 0px; margin: 10px 0px; position: static; visibility: visible;" height="400"></iframe><script async src="https://note.com/scripts/embed.js" charset="utf-8"></script>
 
+ [トップページに戻る]({{ "/" | relative_url }})
+
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/

@@ -27,6 +27,8 @@ tags:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BAsOSoXEFyo?si=qAc-EjQ_SgPx-rmt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+ [トップページに戻る]({{ "/" | relative_url }})
+
 
 [ラジエーションカレッジ2023]: https://www.env.go.jp/chemi/rhm/portal/communicate/college/r5.html
 [ぐぐるプロジェクト]:   https://www.env.go.jp/chemi/rhm/portal/communicate/
