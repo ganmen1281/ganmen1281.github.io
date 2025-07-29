@@ -1,21 +1,24 @@
 ---
 layout: post
-title:  "BitSummit Drift 2025 配信事業補助を担当しました。"
+title:  "『ozm_sis vol.2』アーカイブ撮影を担当しました。"
 date: 2025-06-21 00:00:00 +0800
 categories: 携わったもの,映像
 author: Ganmen1281
 tags:
   - works
 ---
-配信周りの機材協力・事業の補助を担当しました。
+イベントアーカイブの撮影を行いました。
 
-2024年から参加していますが、再びOBS周りでトラブル発生。しかし前回とは異なり、ソフトのダウングレードを行いましたが解決せず。準備中、試験配信を始めると異常にフレームレートが落ち、視聴困難な状態が続きました。
+急遽顔面ハプニング's (ver.九州.0.1)を結成し挑みました。
 
-原因は究明できませんでしたが、どこかしらのPCパーツと相性が悪いのだろうという事で急遽別機材を導入し事なきを得ました。
+オーディオ・ヴィジュアルイベント/コミュニティ『ozm_sis』。クリエイティブデイレクターを務める[崎村宙央]さんから直接お誘いを受け、撮影に臨みました。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ow7sV8tdWkw?si=nalBhglqP3_KOgdX&amp;start=13083" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+最も撮影において気を遣ったのは、やはり『場の空間の保全』です。空間自体が体験として提供されているイベントである以上、その空間を如何に映像に残すか考えなければなりません。一挙手一投足、それらは呼吸として成立していて、余すことなく取り上げられるべきだ、という考えから、アーティストに非常に接近した絵を多く作らせていただきました。
 
-[しんじさん]、[葉]さんの出演するストリーマブースではインカム芸を披露しました(笑)
+[CDs]メンバーである[Saku]さんも演者として参加されていたり、主催[Tao Yamamoto]さんの行動力に圧倒されたり、自分にとっても良い刺激の連続だったように感じます。
+
+あ、人生初のバーカンもやりました。
+![]({{site.baseurl}}/assets/img/バーテン.jpg)
 
  [トップページに戻る]({{ "/" | relative_url }})
 
@@ -26,12 +29,12 @@ tags:
 [コブトリ]: https://x.com/mellorine062
 [しんじさん]:https://x.com/Shinjisan_XD?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
 [葉]:https://x.com/yohdayo?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
-
+[崎村宙央]: https://www.soraosakimura.info/
 [GALLERIA]: https://galleria.net/
 [Ableton]: https://www.ableton.com/ja/
 [Steinberg]: https://www.steinberg.net/ja/
 [ツミキ]: https://x.com/_23ki_?lang=ja
-
+[Saku]: https://x.com/sakuogt
 [BMPCC4K]:https://www.blackmagicdesign.com/jp/products/blackmagicpocketcinemacamera/techspecs/W-CIN-12
 
 [Gopro Hero11]: https://gopro.com/ja/jp/shop/cameras/hero11-black/CHDHX-111-master.html?srsltid=AfmBOopWZ_rga1FrAcFnoEUS-k9RSzLXA4XO0q1BUu6YuOaVNGcU4aVH

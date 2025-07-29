@@ -18,6 +18,10 @@ Jekyllを使用しています。ネットに転がっていた格好の良い�
   <h3><a href="{{ intro_post.url }}">{{ intro_post.title }}</a></h3>
 {% else %}
   <p>自己紹介記事がまだありません。</p>
+  {% if intro2_post %}
+  <h3><a href="{{ intro2_post.url }}">{{ intro_post.title }}</a></h3>
+{% else %}
+  <p>自己紹介記事がまだありません。</p>
 {% endif %}
 
 {% assign movie_posts = site.posts | where_exp: "post", "post.tags contains 'works'" %}

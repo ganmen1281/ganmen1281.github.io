@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "顔面ハプニング'sとは？"
-tags: [intro]
+tags: [intro2]
 author: Ganmen1281
 ---
 
