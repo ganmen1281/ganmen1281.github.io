@@ -35,6 +35,7 @@ tags:
 [Steinberg]: https://www.steinberg.net/ja/
 [ツミキ]: https://x.com/_23ki_?lang=ja
 [Saku]: https://x.com/sakuogt
+[Tao Yamamoto]: https://x.com/tao_yamamoto
 [BMPCC4K]:https://www.blackmagicdesign.com/jp/products/blackmagicpocketcinemacamera/techspecs/W-CIN-12
 
 [Gopro Hero11]: https://gopro.com/ja/jp/shop/cameras/hero11-black/CHDHX-111-master.html?srsltid=AfmBOopWZ_rga1FrAcFnoEUS-k9RSzLXA4XO0q1BUu6YuOaVNGcU4aVH
