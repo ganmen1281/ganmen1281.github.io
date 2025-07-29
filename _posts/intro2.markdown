@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "顔面ハプニング'sとは？"
+date: 2025-07-29 00:00:00 +0900
 tags: [intro2]
 author: Ganmen1281
 ---

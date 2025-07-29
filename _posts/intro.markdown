@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ganmen1281とは?"
+date: 2025-07-29 00:00:00 +0900
 tags: [intro]
 author: Ganmen1281
 ---
