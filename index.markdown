@@ -11,18 +11,20 @@ Jekyllを使用しています。ネットに転がっていた格好の良い�
 
 僕という性質を表すかの如く、あらゆるものが雑多にまとめられていますが、皆さんがお気に召すかどうか...。
 
-{% assign intro_post = site.posts | where_exp: "post", "post.tags contains 'intro'" | first %}
-
 <h2>About</h2>
-{% if intro_post %}
-  <h3><a href="{{ intro_post.url }}">{{ intro_post.title }}</a></h3>
-{% else %}
-  <p>自己紹介記事がまだありません。</p>
-  {% if intro2_post %}
-  <h3><a href="{{ intro2_post.url }}">{{ intro_post.title }}</a></h3>
+
+{% assign intro_posts = site.posts | where_exp: "post", "post.tags contains 'intro' or post.tags contains 'intro2'" %}
+
+{% if intro_posts.size > 0 %}
+  <ul>
+    {% for post in intro_posts %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
 {% else %}
   <p>自己紹介記事がまだありません。</p>
 {% endif %}
+
 
 {% assign movie_posts = site.posts | where_exp: "post", "post.tags contains 'works'" %}
 <h2>映像</h2>

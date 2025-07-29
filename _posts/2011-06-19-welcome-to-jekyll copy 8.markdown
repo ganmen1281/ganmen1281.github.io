@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "BitSummit Drift 2025 配信事業補助を担当しました。"
-date: 2025-06-21 00:00:00 +0800
+date: 2025-07-16 00:00:00 +0800
 categories: 携わったもの,映像
 author: Ganmen1281
 tags:
