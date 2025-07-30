@@ -11,6 +11,25 @@ Jekyllを使用しています。ネットに転がっていた格好の良い�
 
 タイトルのごとく森のようにあらゆる情報が雑多にまとめられています。皆さんがお気に召すかどうか...。
 
+{% assign now = 'now' | date: '%s' %}
+{% assign new_threshold_days = 7 %}
+
+<h2>雑記</h2>
+<ul>
+  {% for post in site.posts | where_exp: "post", "post.tags contains 'zakki'" %}
+    {% assign post_time = post.date | date: '%s' %}
+    {% assign days_since_post = now | minus: post_time | divided_by: 86400 %}
+
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {% if days_since_post <= new_threshold_days %}
+        <span style="color: red; font-weight: bold;">[NEW]</span>
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>
+
+
 <h2>About</h2>
 
 {% assign intro_posts1 = site.posts | where_exp: "post", "post.tags contains 'intro'" %}
