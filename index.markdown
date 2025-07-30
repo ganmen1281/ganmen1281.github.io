@@ -24,7 +24,7 @@ Jekyllを使用しています。ネットに転がっていた格好の良い�
 {% endfor %}
 
 {% if recent_posts.size > 0 %}
-  <h2>最近の更新</h2>
+  <h2>更新</h2>
   <ul>
     {% for post in recent_posts %}
       <li>
