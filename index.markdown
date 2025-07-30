@@ -13,21 +13,28 @@ Jekyllを使用しています。ネットに転がっていた格好の良い�
 
 {% assign now = 'now' | date: '%s' %}
 {% assign new_threshold_days = 7 %}
+{% assign recent_posts = "" | split: "" %}
 
-<h2>雑記</h2>
-<ul>
-  {% for post in site.posts | where_exp: "post", "post.tags contains 'zakki'" %}
-    {% assign post_time = post.date | date: '%s' %}
-    {% assign days_since_post = now | minus: post_time | divided_by: 86400 %}
+{% for post in site.posts %}
+  {% assign post_time = post.date | date: '%s' %}
+  {% assign days_since_post = now | minus: post_time | divided_by: 86400 %}
+  {% if days_since_post <= new_threshold_days %}
+    {% assign recent_posts = recent_posts | push: post %}
+  {% endif %}
+{% endfor %}
 
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {% if days_since_post <= new_threshold_days %}
-        <span style="color: red; font-weight: bold;">[NEW]</span>
-      {% endif %}
-    </li>
-  {% endfor %}
-</ul>
+{% if recent_posts.size > 0 %}
+  <h2>最近の更新</h2>
+  <ul>
+    {% for post in recent_posts %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <span style="color: red; font-size: 0.8em; font-weight: bold;">[NEW]</span>
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}
+
 
 
 <h2>About</h2>
