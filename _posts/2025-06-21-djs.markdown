@@ -30,6 +30,7 @@ tags:
 左から僕、コブトリ、アニーさんです。
 
 ![]({{site.baseurl}}/assets/img/haraguchi.jpg)
+
 原口さんと顔面ハプニング
 
  [トップページに戻る]({{ "/" | relative_url }})
