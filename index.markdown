@@ -60,29 +60,25 @@ Moe Shopが新譜を出して、それをきっかけに聞き始めたんだけ
 {% endif %}
 
 
-{% assign movie_posts = site.posts | where_exp: "post", "post.tags contains 'works'" %}
-<h2>映像</h2>
+<h2>トピックス</h2>
 <ul>
-  {% for post in movie_posts %}
+  {% assign topics = "works,act,hobby" | split: "," %}
+  {% assign topic_posts = "" | split: "" %}
+
+  {% for tag in topics %}
+    {% for post in site.tags[tag] %}
+      {% unless topic_posts contains post %}
+        {% assign topic_posts = topic_posts | push: post %}
+      {% endunless %}
+    {% endfor %}
+  {% endfor %}
+
+  {% assign topic_posts = topic_posts | sort: "date" | reverse %}
+  
+  {% for post in topic_posts %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
-{% assign book_posts = site.posts | where_exp: "post", "post.tags contains 'act'" %}
-<h2>出演</h2>
-<ul>
-  {% for post in book_posts %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-{% assign book_posts = site.posts | where_exp: "post", "post.tags contains 'hobby'" %}
-<h2>趣味など</h2>
-<ul>
-  {% for post in book_posts %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-  </ul>
 
 {% assign movie_posts = site.posts | where_exp: "post", "post.tags contains 'zakki'" %}
 <h2>雑記</h2>
