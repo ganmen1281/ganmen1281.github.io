@@ -9,6 +9,14 @@ title: ようこそ！
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4n0sVfRnd0UJsqcbPj7GqN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+Moe Shopが新譜を出して、それをきっかけに聞き始めたんだけど、滅茶苦茶良い。Moe shopの考える『萌え』のカタチが、僕の古典的萌えとは異なっているから、サウンドの感じもかなり好きだ。
+
+<h2>今月の一枚</h2>
+
+![]({{site.baseurl}}/assets/img/DJ.jpg)
+
+友達と海に出掛けて、DJの真似事をやっていた時に撮られた一枚。
+
 {% assign now = 'now' | date: '%s' %}
 {% assign new_threshold_days = 7 %}
 {% assign recent_posts = "" | split: "" %}
