@@ -5,11 +5,9 @@ title: ようこそ！
 
 ---
 
-・ようこそ！こちらはGanmen1281,顔面ハプニング,武木田樹のホームページです。携わったモノ,コト、あるいは雑記などがここに格納されています。尚、守秘義務契約を果たしたモノについては纏められておりません。
+<h2>今月の一曲</h2>
 
-・Jekyllを使用しています。稼働開始は2025年5月です。ネットに転がっていた格好の良いテーマを用いてサイトの環境を構築した結果、めっちゃプログラマみたいになりましたが、へっぽこなのでバグが毎度大量に出現します。
-
-・タイトルのごとく森のようにあらゆる情報が雑多にまとめられています。お気に召すかどうか...。
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4n0sVfRnd0UJsqcbPj7GqN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 {% assign now = 'now' | date: '%s' %}
 {% assign new_threshold_days = 7 %}
