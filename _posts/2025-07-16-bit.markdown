@@ -9,10 +9,6 @@ tags:
 ---
 配信周りの機材協力・事業の補助を担当しました。
 
-2024年から参加していますが、再びOBS周りでトラブル発生。しかし前回とは異なり、ソフトのダウングレードを行いましたが解決せず。準備中、試験配信を始めると異常にフレームレートが落ち、視聴困難な状態が続きました。
-
-原因は究明できませんでしたが、どこかしらのPCパーツと相性が悪いのだろうという事で急遽別機材を導入し事なきを得ました。
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ow7sV8tdWkw?si=nalBhglqP3_KOgdX&amp;start=13083" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [しんじさん]、[葉]さんの出演するストリーマブースではインカム芸を披露しました(笑)
