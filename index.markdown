@@ -7,15 +7,15 @@ title: ようこそ！
 
 <h2>今月の一曲</h2>
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4n0sVfRnd0UJsqcbPj7GqN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3K0SJUQNbOkUprTFcwwAKN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Moe Shopが新譜を出して、それをきっかけに聞き始めたんだけど、滅茶苦茶良い。Moe shopの考える『萌え』のカタチが、僕の古典的萌えとは異なっているから、サウンドの感じもかなり好きだ。
+パルプ・フィクションの音楽と言えば？まあ大体の人が『Misirlou』と答えると思う。間違いじゃない、というか世俗ではそれが一般的な共通認識だけれど、声を大にして言いたい、それだけじゃないってこと。
 
 <h2>今月の一枚</h2>
 
-![]({{site.baseurl}}/assets/img/DJ.jpg)
+![]({{site.baseurl}}/assets/img/tokyomukogaoka.png)
 
-友達と海に出掛けて、DJの真似事をやっていた時に撮られた一枚。
+分かる人には分かるアングルで、分かる人には分かる場所。この周辺には何度か訪れているけれど、東京（場所は完全に神奈川だが）の周辺は訪れる度に感じる事・考える事が変わる。これは2023年。確かこの時は[東京少年少女]({{ site.baseurl }}{% post_url 2025-07-12-tokyo %})達と会った日の写真だ。あれは8月だけど。
 
 {% assign now = 'now' | date: '%s' %}
 {% assign new_threshold_days = 7 %}
@@ -29,8 +29,9 @@ Moe Shopが新譜を出して、それをきっかけに聞き始めたんだけ
   {% endif %}
 {% endfor %}
 
+
 {% if recent_posts.size > 0 %}
-  <h2>更新</h2>
+  <h2>Latest updates</h2>
   <ul>
     {% for post in recent_posts %}
       <li>
@@ -40,7 +41,6 @@ Moe Shopが新譜を出して、それをきっかけに聞き始めたんだけ
     {% endfor %}
   </ul>
 {% endif %}
-
 
 
 <h2>About</h2>
@@ -60,7 +60,7 @@ Moe Shopが新譜を出して、それをきっかけに聞き始めたんだけ
 {% endif %}
 
 
-<h2>トピックス</h2>
+<h2>Works</h2>
 <ul>
   {% assign topics = "works,act,hobby" | split: "," %}
   {% assign topic_posts = "" | split: "" %}
@@ -81,7 +81,7 @@ Moe Shopが新譜を出して、それをきっかけに聞き始めたんだけ
 </ul>
 
 {% assign movie_posts = site.posts | where_exp: "post", "post.tags contains 'zakki'" %}
-<h2>雑記</h2>
+<h2>zakki</h2>
 <ul>
   {% for post in movie_posts %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
