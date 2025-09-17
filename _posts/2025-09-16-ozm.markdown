@@ -15,9 +15,17 @@ tags:
 
 最も撮影において気を遣ったのは、やはり『場の空間の保全』です。空間自体が体験として提供されているイベントである以上、その空間を如何に映像に残すか考えなければなりません。一挙手一投足、それらは呼吸として成立していて、余すことなく取り上げられるべきだ、という考えから、アーティストに非常に接近した絵を多く作らせていただきました。
 
-[CDs]メンバーである[Saku]さんも演者として参加されていたり、主催[Tao Yamamoto]さんの行動力に圧倒されたり、自分にとっても良い刺激の連続だったように感じます。
+という事で、全編アーカイブが公開されましたので、こちらからどうぞ。
 
-アーカイブは現状公開されておりませんが、公開されたタイミングでこちらも更新する予定です。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wEPEcW69kk?si=tIdz8oJLg4Sf69aQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mf-LCz-mlhA?si=BOFuA_imS7PXhi5S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y7insDEBOO4?si=I5Z1YuZEyRKmqWGd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F9L4k7gNG3A?si=-7w9_v58uOZyIk5N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[CDs]メンバーである[Saku]さんも演者として参加されていたり、主催[Tao Yamamoto]さんの行動力に圧倒されたり、自分にとっても良い刺激の連続だったように感じます。
 
 あ、人生初のバーカンもやりました。
 ![]({{site.baseurl}}/assets/img/バーテン.jpg)
