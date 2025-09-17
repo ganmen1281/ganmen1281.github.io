@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "環境省ぐぐるプロジェクト・ラジエーションカレッジ2023・ショート動画部門で優秀賞を受賞しました。"
+date: 2024-02-29 00:00:00 +0800
+categories: 携わったもの,映像
+author: Ganmen1281
+tags:
+  - works
+---
+企画・演出・編集を担当しています。
+部門優秀賞を受賞しました。
+
+<!--description-->
+
+環境省さんの映像になります。
+
+[ラジエーションカレッジ2023]という公募があり、基本的には原発事故から広がった『放射線の健康医療に関わる風評被害・加害』に目を向けて行こうという内容である[ぐぐるプロジェクト]に向けての作品作りになります。
+
+個人的にも福島県には何かとお世話になる機会があり、勝手ながら恩義を感じていた側面もありつつ(マジで勝手)、友人らで制作した映像です。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TzNXZsyN8VI?si=X2WtoFqjf8LR9xka" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+15秒尺で、プロジェクトのHPに誘導する内容...と、頭を抱える事になりましたが、ド頭にインパクトを持ってくる事で観客の視点を誘導するという企画にまとまりました。
+
+所謂『自己防衛おじさん』などのインタビューは、後世に語り継がれるほどの人気がありますよね。そう言った意味でのインパクトを与える事で、何とか興味を引こうという魂胆があったワケです。
+
+NX-5Rを使用した撮影だったと記憶しています。技術的に拘った部分...みたいなものはあまり無いのですが、強いて言えば、サイドや字幕のフォントを完全にニュース番組と遜色ない出来に持っていくことを意識してみました。
+
+当時は学生身分で、まだまだ出来るだろうという側面も幾つか見られるのですが、それでも企画・演出のインパクトが刺さったのは嬉しいことです。
+
+ [トップページに戻る]({{ "/" | relative_url }})
+
+[ラジエーションカレッジ2023]: https://www.env.go.jp/chemi/rhm/portal/communicate/college/r5.html
+[ぐぐるプロジェクト]:   https://www.env.go.jp/chemi/rhm/portal/communicate/
+[jekyll-talk]: https://talk.jekyllrb.com/
+
+<p><small>&copy; {{ "now" | date: "%Y" }} Ganmen1281. All rights reserved.</small></p>

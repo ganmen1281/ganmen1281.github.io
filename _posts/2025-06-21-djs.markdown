@@ -26,7 +26,15 @@ tags:
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ja" dir="ltr">顔面ハプニング&#39;sより馳せ参じました。<a href="https://twitter.com/ganmen1281?ref_src=twsrc%5Etfw">@ganmen1281</a> <a href="https://twitter.com/fasaka_2?ref_src=twsrc%5Etfw">@fasaka_2</a> <a href="https://twitter.com/Annie_beatz?ref_src=twsrc%5Etfw">@Annie_beatz</a> <a href="https://twitter.com/mellorine062?ref_src=twsrc%5Etfw">@mellorine062</a> <a href="https://t.co/tPDRHagUUE">https://t.co/tPDRHagUUE</a> <a href="https://t.co/0FOlVXNGbu">pic.twitter.com/0FOlVXNGbu</a></p>&mdash; 顔面ハプニング (@ganmen1281) <a href="https://twitter.com/ganmen1281/status/1936465249986920683?ref_src=twsrc%5Etfw">June 21, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<<<<<<< HEAD
 ![]({{site.baseurl}}/assets/img/haraguchi.jpg)
+=======
+![]({{site.baseurl}}/assets/img/3人.jpg)
+左から僕、コブトリ、アニーさんです。
+
+![]({{site.baseurl}}/assets/img/haraguchi.jpg)
+
+>>>>>>> e791a7e3d885735c39c2235bbb63dbca22a8e2e8
 原口さんと顔面ハプニング
 
  [トップページに戻る]({{ "/" | relative_url }})

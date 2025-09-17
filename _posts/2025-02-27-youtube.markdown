@@ -34,6 +34,10 @@ tags:
  [トップページに戻る]({{ "/" | relative_url }})
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> e791a7e3d885735c39c2235bbb63dbca22a8e2e8
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
