@@ -1,0 +1,75 @@
+---
+layout: post
+title:  "『DJs for anywhere 002』の配信業務を担当しました。"
+date: 2025-06-21 00:00:00 +0800
+categories: 携わったもの,映像
+author: Ganmen1281
+tags:
+  - works
+---
+
+配信技術統括・スイッチャーを担当しました。
+
+第二回、[CDs]が参加するリアルイベントです。
+
+今回は[NAZOTOKI expo 2025]内、[トキキル]さんのブースでの配信になりました。
+
+顔面ハプニング's (ver.1.0.2) での参加になります。
+
+基本的な動きはこれまでの配信と共通していますが、新機材[DJI RS4]の登場により、安定したカメラアングル・ワークを実現し、音に合わせた軽快なスイッチングとの相性もあって好評でした。
+
+撮影:顔面ハプニング・[菊川倖輝]・[喜多]
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thank you CDs<a href="https://twitter.com/hashtag/%E3%83%88%E3%82%AD%E3%82%AD%E3%83%AB%E3%83%90%E3%83%99%E3%83%AB?src=hash&amp;ref_src=twsrc%5Etfw">#トキキルバベル</a> <a href="https://twitter.com/hashtag/NAZE2025?src=hash&amp;ref_src=twsrc%5Etfw">#NAZE2025</a> <a href="https://t.co/dZfyXuiPSB">pic.twitter.com/dZfyXuiPSB</a></p>&mdash; トキキル (@tokiqil) <a href="https://twitter.com/tokiqil/status/1969531337255371159?ref_src=twsrc%5Etfw">September 20, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+本配信アーカイブ
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zy6ZYwadfi0?si=gu4NX_HvOMRzIL6n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+ [トップページに戻る]({{ "/" | relative_url }})
+
+[ラジエーションカレッジ2023]: https://www.env.go.jp/chemi/rhm/portal/communicate/college/r5.html
+[ぐぐるプロジェクト]:   https://www.env.go.jp/chemi/rhm/portal/communicate/
+[jekyll-talk]: https://talk.jekyllrb.com/
+[なきちゃん]: https://x.com/nakimichi_111
+[Negitoro]: https://x.com/Negitor0_dj
+[Molluscholar]: https://x.com/Molluscholar
+[d.j.ァネイロ]: https://x.com/dj_xaneiro
+[駄菓子O型]: https://x.com/OgataDagashi
+[ど～ぱみん]: https://x.com/DTM_dopamine
+[なみぐる]: https://x.com/namigroove
+[原口沙輔]: https://x.com/sasuke_maschine
+[フロクロ]: https://x.com/2r96
+[おおつく]: https://x.com/Quartz_Tea
+[MIDy]: https://x.com/midy9969nect
+[四度寝]: https://x.com/suyapachix4
+[TMPら]: https://x.com/7MPra
+[melonade]: https://x.com/melodynade
+[羽坂]: https://x.com/castro_2034
+[CDs]: http://cds-inter.net/
+[Annie beatz]: https://x.com/Annie_beatz
+[コブトリ]: https://x.com/mellorine062
+[トキキル]: https://tokiqil.com/
+[NAZOTOKI expo 2025]: https://huntersvillage.jp/promo/nazotokiexpo/2025/
+ [喜多]: https://m.youtube.com/@紀淡海峡/videos?fbclid=PAQ0xDSwL1INZleHRuA2FlbQIxMAABp0CFIxDmtYZrmKCvueG2LfZ16Swg1o8OjSXJNDp6zACmdAy6wmp2zaZohFoC_aem_eKzHv--5e-83c65KlqszIQ
+ [hasaka]: https://x.com/fasaka_2
+ [Annie beatz]: https://x.com/Annie_beatz
+[コブトリ]: https://x.com/mellorine062
+[菊川倖輝]: https://www.instagram.com/k5i2u2a2o?igsh=Y3Nqa3Z6cTNoamR0
+[そーど]: https://x.com/sword_aiueo0917
+[わい]: https://x.com/wauwauw_au
+[JDID]: https://www.instagram.com/jdid_.66?igsh=eTExaG5yaG5yejIw
+[taian.pic]: https://www.instagram.com/taian.pic?igsh=MTZka3AyN2VhZzkzOQ%3D%3D&utm_source=qr
+[てるチキ]: https://x.com/chi_kiNgg
+
+[BMPCC4K]:https://www.blackmagicdesign.com/jp/products/blackmagicpocketcinemacamera/techspecs/W-CIN-12
+
+[Gopro Hero11]: https://gopro.com/ja/jp/shop/cameras/hero11-black/CHDHX-111-master.html?srsltid=AfmBOopWZ_rga1FrAcFnoEUS-k9RSzLXA4XO0q1BUu6YuOaVNGcU4aVH
+
+[ZV-e10]: https://www.sony.jp/ichigan/products/ZV-E10/?srsltid=AfmBOoqQk4jE4BXYQD27RKQleQDc7RtuHGnxvSEA4v4-ytuVgt_duoLh
+
+[ATEM Mini Pro]: https://www.blackmagicdesign.com/jp/products/atemmini/techspecs/W-APS-14
+
+[V-8HD]: https://proav.roland.com/jp/products/v-8hd/
+
+<p><small>&copy; {{ "now" | date: "%Y" }} Ganmen1281. All rights reserved.</small></p>
