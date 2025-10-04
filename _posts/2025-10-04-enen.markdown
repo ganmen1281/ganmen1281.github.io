@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "『煙々創苑』に所属しています。"
+date: 2025-10-04 00:00:00 +0800
+categories: 携わったもの
+author: Ganmen1281
+tags:
+  - works
+---
+
+『煙々創苑』は『えんえんそうえん』と呼びます。
+
+諸々の経緯やら何をしているかというのは[公式ページ]の[図書室]から参照してください。
+
+時折更新される（予定）の図書室を、お楽しみに。
+
+ [トップページに戻る]({{ "/" | relative_url }})
+
+[公式ページ]: https://enensoen.com/
+[図書室]: https://enensoen.com/library/
+
+<p><small>&copy; {{ "now" | date: "%Y" }} Ganmen1281. All rights reserved.</small></p>

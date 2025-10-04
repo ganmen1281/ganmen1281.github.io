@@ -60,7 +60,7 @@ title: ようこそ！
 {% endif %}
 
 
-<h2>Works</h2>
+<h2>News</h2>
 <ul>
   {% assign topics = "works,act,hobby" | split: "," %}
   {% assign topic_posts = "" | split: "" %}
@@ -81,7 +81,7 @@ title: ようこそ！
 </ul>
 
 {% assign movie_posts = site.posts | where_exp: "post", "post.tags contains 'zakki'" %}
-<h2>zakki</h2>
+<h2>Kakidame</h2>
 <ul>
   {% for post in movie_posts %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
