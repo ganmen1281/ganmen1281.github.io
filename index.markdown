@@ -7,15 +7,15 @@ title: ようこそ！
 
 <h2>今月の一曲</h2>
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3K0SJUQNbOkUprTFcwwAKN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4PfrDxnVqgjwakU9RQke6q?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-パルプ・フィクションの音楽と言えば？まあ大体の人が『Misirlou』と答えると思う。間違いじゃない、というか世俗ではそれが一般的な共通認識だけれど、声を大にして言いたい、それだけじゃないってこと。
+夏の終わり、秋の始まり。忙しなくまた一年が過ぎていく。あと2ヶ月もしたら2025年は終わるらしい。まだ長袖は早いんじゃないかと思って半袖で家を出ると、肌寒くてつらい。そういう時期...。ちょうどよい気候は存在しないのか。電車の中で、まだ強めの冷房に体を震わせながら、いろいろ考える時の一曲。
 
 <h2>今月の一枚</h2>
 
-![]({{site.baseurl}}/assets/img/tokyomukogaoka.png)
+![]({{site.baseurl}}/assets/img/喫煙所.jpg)
 
-分かる人には分かるアングルで、分かる人には分かる場所。この周辺には何度か訪れているけれど、東京（場所は完全に神奈川だが）の周辺は訪れる度に感じる事・考える事が変わる。これは2023年。確かこの写真は[東京少年少女]({{ site.baseurl }}{% post_url 2025-07-12-tokyo %})達と会った日の写真だ。あれは8月だけど。
+静岡県を抜ける直前のサービスエリアにあった喫煙所。看板には喫煙所の案内表示があるのだけれど、全然見当たらない。困っていると『入ってはいけないオーラ』がありえないくらい漂っている（どう考えても従業員の裏動線に干渉している）場所に設置されていた（露骨に隔離されている）。喫煙者には人権は存在しないのだなあと思った一枚。かなりカッコつけた写真。
 
 {% assign now = 'now' | date: '%s' %}
 {% assign new_threshold_days = 7 %}
