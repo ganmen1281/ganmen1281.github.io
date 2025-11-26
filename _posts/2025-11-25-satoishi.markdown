@@ -16,11 +16,13 @@ tags:
 
 映像作家である[黒岩秀太]さんから、アルバム『Re:魔法少女』のクロスフェードを実写映像で制作したい、というお話があり、「アルバムクロスフェードを実写で⁈」という驚きの中、企画が動き出しました。
 
-近年の、特にボーカロイドのアルバムクロスフェードという文化には、ボーカロイドのMV文化の性質などがあって基本的にはテロップアニメーションで見せていくという『文脈』があり、ここにきて新機軸の『実写』を取り込むというのはかなりチャレンジングなことで、こういった要素（ある種メタ的な）を包括できる『里石ユカ』という存在は絶好の機会でもあったと言えます。
+近年の、特にボーカロイドのアルバムクロスフェードという文化には、ボーカロイドのMV文化の性質などがあって基本的にはテロップアニメーションで見せていくという『文脈』があり、ここにきて新機軸の『実写』を取り込むというのはかなりチャレンジングなことで、こういった要素（ある種メタ的な）を包括できる『[里石ユカ]』という存在は絶好の機会でもあったと言えます。
 
 タムロンの17-70mm F/2.8を想定した動きではありましたが、アクティブなシークエンスには重量の観点から不向きであるとして、18-105mmのGレンズ(SELP18105G)で挑みました。単純にヨリやすく使いやすいというのはシンプルな利点であります。[黒岩秀太]さんの世界観にいかに近づけるか、同時に縛られた時間的制約の中でどこまでを拘っていくのか、そういった部分を極限まで考えつつ、実写作品としての演出を補助しつつの制作になりましたが、完成映像からもわかるように、クロスフェードとしての斬新さと同時に世界観を補助する役割を実写という強いスパイスで実践できたのではないでしょうか？
 
 [顔面ハプニング'S]({{ site.baseurl }}{% post_url 2025-07-29-intro2 %})から[喜多]、[kouki kikukawa]。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=Ra4_t_2b1jfRboHm&amp;list=PL-IuipXsZjDB1MSZHCWkJzVyXrCrd6mJ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
  [トップページに戻る]({{ "/" | relative_url }})
 
@@ -36,5 +38,6 @@ tags:
 [JDID]: https://www.instagram.com/jdid_.66?igsh=eTExaG5yaG5yejIw
 [taian.pic]: https://www.instagram.com/taian.pic?igsh=MTZka3AyN2VhZzkzOQ%3D%3D&utm_source=qr
 [てるチキ]: https://x.com/chi_kiNgg
+[里石ユカ]: https://satoishiyuka.wixsite.com/satoishi
 
 <p><small>&copy; {{ "now" | date: "%Y" }} Ganmen1281. All rights reserved.</small></p>
