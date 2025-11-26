@@ -22,6 +22,8 @@ tags:
 
 [顔面ハプニング'S]({{ site.baseurl }}{% post_url 2025-07-29-intro2 %})から[喜多]、[kouki kikukawa]。
 
+
+里石ユカプロジェクト↓
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=Ra4_t_2b1jfRboHm&amp;list=PL-IuipXsZjDB1MSZHCWkJzVyXrCrd6mJ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
  [トップページに戻る]({{ "/" | relative_url }})
