@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "里石ユカ公式コンピレーションアルバム『Re:魔法少女』クロスフェード映像の制作を担当しました。"
 date: 2025-11-25 00:00:00 +0800
 categories: 携わったもの,映像
@@ -28,7 +28,7 @@ tags:
  [喜多]: https://m.youtube.com/@紀淡海峡/videos?fbclid=PAQ0xDSwL1INZleHRuA2FlbQIxMAABp0CFIxDmtYZrmKCvueG2LfZ16Swg1o8OjSXJNDp6zACmdAy6wmp2zaZohFoC_aem_eKzHv--5e-83c65KlqszIQ
  [hasaka]: https://x.com/fasaka_2
  [Annie beatz]: https://x.com/Annie_beatz
-[コブトリ]: https://x.com/mellorine062
-[kouki kikukawa]: https://www.instagram.com/k5i2u2a2o?igsh=Y3Nqa3Z6cTNoamR0
+ [コブトリ]: https://x.com/mellorine062
+ [kouki kikukawa]: https://www.instagram.com/k5i2u2a2o?igsh=Y3Nqa3Z6cTNoamR0
 
 <p><small>&copy; {{ "now" | date: "%Y" }} Ganmen1281. All rights reserved.</small></p>
