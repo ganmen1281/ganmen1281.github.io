@@ -93,6 +93,6 @@ HIPHOPとか、そのあたりの文化圏における『サンプリング』�
 Twitter: (at) ganmen1281  
 Mail:ganmen1281douga (at) gmail.com  
 
-[としめ]: https://toshime.github.io/
+[としめ]: https://enensoen.com/toshime/
 
 <p><small>&copy; {{ "now" | date: "%Y" }} Ganmen1281. All rights reserved.</small></p>
