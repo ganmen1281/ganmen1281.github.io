@@ -28,11 +28,6 @@ B2B:[立月]。ボカロとか特撮とかアニソンをかけながら楽し�
 
 ![]({{site.baseurl}}/assets/img/DSC00739.00_00_00_00.静止画001.jpg)
 
-
-
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0rk0JNLAGRM1RgSGyjV00T?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
  [トップページに戻る]({{ "/" | relative_url }})
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
