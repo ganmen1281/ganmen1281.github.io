@@ -14,7 +14,7 @@ tags:
 
 ![]({{site.baseurl}}/assets/img/DJ2.jpg)
 
-路上DJをはじめました。B2B:[立月]。ボカロとか特撮とかアニソンをかけながら楽しんでおります。どこかで遭遇するかもしれません、その時にはどうぞよろしく。僕は最近まで知らなかったんですが、自分に絶対音感が備わっていることを知り、驚愕しています...。特に活きるわけではないんですが、カンでマッシュアップしやすいキーがわかるという、本当にどうでもいい能力をもっています[(つくったマッシュアップ)]。
+路上DJをはじめました。B2B:[立月]。ボカロとか特撮とかアニソンをかけながら楽しんでおります。どこかで遭遇するかもしれません、その時にはどうぞよろしく。僕は最近まで知らなかったんですが、自分に絶対音感が備わっていることを知り、驚愕しています...。特に活きるわけではないんですが、カンでマッシュアップしやすいキーがわかるという、本当にどうでもいい能力をもっています([つくったマッシュアップ])。
 
 ちょっと話を逸らすと、Youtuberになりました。ゲームの没データを取り上げるというニッチすぎる動画で、趣味で作っていたものが意外にも興味を持たれ、結構な再生数に...という。個人的にゲーム地質学と呼称しているジャンルについて、今後も雑多に取り上げていくつもりです。元々没データのオタクではあったので（[琴葉姉妹の没データ散歩]の大ファンでした）、こういった形で皆さんに知ってもらえるのはうれしい。みんな解析マニアになってしまえ。
 
@@ -34,7 +34,7 @@ tags:
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
 [立月]: https://x.com/long_tachi
-[(つくったマッシュアップ)]: https://soundcloud.com/ganmen1281/x-mashup?utm_source=clipboard&utm_campaign=wtshare&utm_medium=widget&utm_content=https%253A%252F%252Fsoundcloud.com%252Fganmen1281%252Fx-mashup
+[つくったマッシュアップ]: https://soundcloud.com/ganmen1281/x-mashup?utm_source=clipboard&utm_campaign=wtshare&utm_medium=widget&utm_content=https%253A%252F%252Fsoundcloud.com%252Fganmen1281%252Fx-mashup
 [琴葉姉妹の没データ散歩]: https://www.nicovideo.jp/user/11648680/series/4976
 [とあるゲーム]: https://store.steampowered.com/app/2879980/_/?l=japanese
 
