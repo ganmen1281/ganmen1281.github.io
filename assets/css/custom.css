@@ -1,11 +1,30 @@
-.category-title.video {
-  color: #FFD700; /* 黄色 */
+/* === 記事末尾：著者紹介を小さくする === */
+.author-box {
+  display: flex;
+  gap: 12px;
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid #e0e0e0;
+  align-items: flex-start;
+  font-size: 0.85rem;     /* 文字全体を小さく */
 }
 
-.category-title.appearance {
-  color: #FFD700; /* 黄色 */
+.author-portrait img {
+  width: 64px;            /* 写真を小さく */
+  height: 64px;
+  border-radius: 50%;
+  object-fit: cover;
 }
 
-.category-title.hobby {
-  color: #FFD700; /* 黄色 */
+.author-profile h4 {
+  margin: 0 0 0.25rem 0;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.author-profile p {
+  margin: 0;
+  font-size: 0.8rem;      /* 本文をさらに小さく */
+  line-height: 1.5;
+  color: #333;
 }
