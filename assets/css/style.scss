@@ -1,0 +1,37 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* ===== ここから下があなたの追記CSS ===== */
+
+.author-box {
+  display: flex;
+  gap: 12px;
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid #444;
+  font-size: 0.85rem;
+}
+
+.author-portrait img {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+}
+
+.author-profile h4 {
+  margin: 0 0 0.25rem 0;
+  font-size: 0.9rem;
+}
+
+.author-profile p {
+  margin: 0;
+  font-size: 0.8rem;
+  line-height: 1.5;
+  color: #ccc;
+}
+
+body {
+  outline: 5px solid red;
+}
