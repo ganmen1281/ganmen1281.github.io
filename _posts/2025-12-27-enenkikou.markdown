@@ -16,8 +16,6 @@ tags:
 [図書室]: https://enensoen.com/library/
 [煙々創苑レポ① 謎の家系温泉]: https://enensoen.com/library/8-usbd6mkt/
 
-<hr>
-
 <div class="author-box">
   <div class="author-portrait">
     <img src="{{ '/assets/img/ganmen2.png' | relative_url }}" alt="Ganmen1281">
