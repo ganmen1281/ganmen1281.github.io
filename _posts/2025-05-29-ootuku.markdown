@@ -36,6 +36,12 @@ tags:
 
 演者さんにも好評であったらしく、様々な方々からお褒めの言葉を頂き、大変光栄でした。
 
+![]({{site.baseurl}}/assets/img/annai2.png)
+
+![]({{site.baseurl}}/assets/img/annnai3.png)
+
+![]({{site.baseurl}}/assets/img/IMG_4841.jpg)
+
 <div class="author-box">
   <div class="author-portrait">
     <img src="{{ '/assets/img/ganmen4.JPG' | relative_url }}" alt="Ganmen1281">
@@ -53,12 +59,6 @@ tags:
 </div>
 
  [トップページに戻る]({{ "/" | relative_url }})
-
-![]({{site.baseurl}}/assets/img/annai2.png)
-
-![]({{site.baseurl}}/assets/img/annnai3.png)
-
-![]({{site.baseurl}}/assets/img/IMG_4841.jpg)
 
 [ラジエーションカレッジ2023]: https://www.env.go.jp/chemi/rhm/portal/communicate/college/r5.html
 [ぐぐるプロジェクト]:   https://www.env.go.jp/chemi/rhm/portal/communicate/
