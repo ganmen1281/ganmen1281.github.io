@@ -10,15 +10,13 @@ tags:
 
 [煙々創苑]公式サイト内、図書室にて[煙々創苑レポ① 謎の家系温泉]を寄稿しております。
 
- [トップページに戻る]({{ "/" | relative_url }})
-
 [煙々創苑]: https://enensoen.com/
 [図書室]: https://enensoen.com/library/
 [煙々創苑レポ① 謎の家系温泉]: https://enensoen.com/library/8-usbd6mkt/
 
 <div class="author-box">
   <div class="author-portrait">
-    <img src="{{ '/assets/img/ganmen2.png' | relative_url }}" alt="Ganmen1281">
+    <img src="{{ '/assets/img/ganmen4.JPG' | relative_url }}" alt="Ganmen1281">
   </div>
   <div class="author-profile">
     <h4>Ganmen1281</h4>
@@ -32,5 +30,6 @@ tags:
   </div>
 </div>
 
+ [トップページに戻る]({{ "/" | relative_url }})
 
 <p><small>&copy; {{ "now" | date: "%Y" }} Ganmen1281. All rights reserved.</small></p>
