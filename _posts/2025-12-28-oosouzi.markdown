@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "年末のHP大改修"
+date: 2025-12-28 00:00:00 +0800
+categories: 雑記
+author: Ganmen1281
+tags:
+  - zakki
+---
+
+Ganmenの森も、いよいよ運用から一年近く経とうとしている...。
+
+誰がこのサイトを読んでいるんだろうとか、そういう事を気にしてはならない。ポートフォリオの意味も、まあ、あるにはあるので、それなりにこだわって作られている。もともと前身のadobe portfolioで作られたサイトがあって、ダサすぎるし視認性も悪いしで、なんやかんやありこのサイトに移行しようとなったのが、去年の事だ。
+
+ちなみに僕はパソコン中級者を自認しているんだけれど（ジキルでこの環境を整えるくらいには、使えるほうだ）、それでも勿論上級者ではないので、ほとんどはAIと協力しながら作られている。そんなんなので、CSSやらの組み込み方が実はイマイチ理解できていなかったのだけれど、なんと2025年も終わるその時に、こんな面白いコンテンツが実装できるようになってしまった。ということで、Ganmenの森を大改修しよう。
+
+とはいえ、CSSみたいなもの、マジで触った事がないので、結局やりたいことが思いつかない。
+
+試にホームの項目で未読を青、既読を紫にしてみた。
+
+...これ、いるか...？
+
+
+
+<div class="author-box">
+  <div class="author-portrait">
+    <img src="{{ '/assets/img/ganmen4.JPG' | relative_url }}" alt="Ganmen1281">
+  </div>
+  <div class="author-profile">
+    <h4>Ganmen1281</h4>
+    <p>
+      生まれも育ちも兵庫県南西部・播州。<br>
+      10代の青春をアニメ・特撮・映画に捧げるも、特に報われることもなく20代に突入する。<br>
+      映画に捧げた青春は映画に返してほしかったので、ビジュアルアーツ専門学校入学。<br>
+      特に返ってくることもなく、卒業。<br>
+      現在は映像制作者・Youtuber・DJ・ライターとして活動中。
+    </p>
+  </div>
+</div>
+
+ [トップページに戻る]({{ "/" | relative_url }})
+
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
+[立月]: https://x.com/long_tachi
+[つくったマッシュアップ]: https://soundcloud.com/ganmen1281/x-mashup?utm_source=clipboard&utm_campaign=wtshare&utm_medium=widget&utm_content=https%253A%252F%252Fsoundcloud.com%252Fganmen1281%252Fx-mashup
+[琴葉姉妹の没データ散歩]: https://www.nicovideo.jp/user/11648680/series/4976
+[とあるゲーム]: https://store.steampowered.com/app/2879980/_/?l=japanese
+
+<p><small>&copy; {{ "now" | date: "%Y" }} Ganmen1281. All rights reserved.</small></p>
