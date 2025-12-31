@@ -44,9 +44,10 @@
   margin-bottom: 2em;
 }
 
+/* Hackerテーマ標準の字下げに合わせる */
 .monthly-archive-mini ul {
   list-style: none;
-  padding-left: 0;
+  padding-left: 2em;
   margin: 0.5em 0;
 }
 
@@ -54,16 +55,16 @@
   margin: 0.25em 0;
 }
 
-/* ★ マンスリー記事タイトルだけは通常サイズ＆Hackerテーマ色 */
+/* マンスリー記事タイトルは通常サイズ・テーマ色のまま */
 .monthly-archive-mini ul li a {
-  font-size: 1rem !important;
+  font-size: 1rem;
   font-weight: normal;
 }
 
-/* archiveリンクだけ控えめに */
+/* archiveリンクだけ控えめ */
 .monthly-more a {
   font-size: 0.85em;
-  color: #888 !important;
+  color: #888;
   text-decoration: none;
 }
 
