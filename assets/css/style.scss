@@ -1,9 +1,8 @@
 ---
 ---
-
 @import "{{ site.theme }}";
 
-/* ===== ここから下があなたの追記CSS ===== */
+/* ===== Author box ===== */
 
 .author-box {
   display: flex;
@@ -32,8 +31,9 @@
   color: #ccc;
 }
 
-/* Monthly mini archive */
+/* ===== Monthly mini archive ===== */
 
+/* 周辺説明用：小さめ */
 .monthly-archive-mini {
   font-size: 0.85em;
   color: #aaa;
@@ -47,25 +47,29 @@
 }
 
 .monthly-archive-mini li {
-  margin: 0.2em 0;
+  margin: 0.25em 0;
 }
 
+/* ★ 記事タイトルだけ通常サイズ＆白に固定 */
+.monthly-archive-mini ul li a {
+  font-size: 1rem !important;
+  color: #ffffff !important;
+  font-weight: normal;
+}
+
+/* hover時 */
+.monthly-archive-mini ul li a:hover {
+  color: #ffffff !important;
+  text-decoration: underline;
+}
+
+/* archiveリンクだけ薄く */
 .monthly-more a {
-  color: #888;
+  font-size: 0.85em;
+  color: #888 !important;
   text-decoration: none;
 }
 
 .monthly-more a:hover {
   text-decoration: underline;
-}
-
-/* Monthly helps textは小さく、記事タイトルは通常サイズに戻す */
-.monthly-archive-mini {
-  font-size: 0.85em;
-  color: #aaa;
-}
-
-.monthly-archive-mini li a {
-  font-size: 1em;   /* ← ここが肝 */
-  color: #fff;
 }
