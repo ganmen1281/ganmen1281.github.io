@@ -5,3 +5,5 @@ tags: monthly photo
 ---
 
 ![]({{ site.baseurl }}/assets/img/DJ5.jpg)
+
+いいDJ。
