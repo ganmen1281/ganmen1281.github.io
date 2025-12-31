@@ -2,7 +2,9 @@
 ---
 @import "{{ site.theme }}";
 
-/* ===== Author box ===== */
+/* ==================================================
+   Author box
+   ================================================== */
 
 .author-box {
   display: flex;
@@ -31,9 +33,11 @@
   color: #ccc;
 }
 
-/* ===== Monthly mini archive ===== */
+/* ==================================================
+   Monthly mini archive
+   ================================================== */
 
-/* 周辺説明用：小さめ */
+/* 周辺UI（説明・余白）は小さめ */
 .monthly-archive-mini {
   font-size: 0.85em;
   color: #aaa;
@@ -50,20 +54,20 @@
   margin: 0.25em 0;
 }
 
-/* ★ 記事タイトルだけ通常サイズ＆白に固定 */
+/* ★ マンスリー記事タイトルだけは通常サイズ＆Hackerテーマ色 */
 .monthly-archive-mini ul li a {
   font-size: 1rem !important;
-  color: #ffffff !important;
+  color: #00ff00 !important; /* jekyll-theme-hackerの緑 */
   font-weight: normal;
 }
 
-/* hover時 */
+/* hover時も色を維持 */
 .monthly-archive-mini ul li a:hover {
-  color: #ffffff !important;
+  color: #00ff00 !important;
   text-decoration: underline;
 }
 
-/* archiveリンクだけ薄く */
+/* archiveリンクだけ控えめに */
 .monthly-more a {
   font-size: 0.85em;
   color: #888 !important;
