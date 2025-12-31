@@ -8,19 +8,21 @@ title: ようこそ！
 <h2>Monthly</h2>
 
 <div class="monthly-archive-mini">
-  {% assign monthly_posts = site.posts | where_exp: "post", "post.tags contains 'monthly'" %}
+  {% assign monthly_posts = site.posts
+    | where_exp: "post", "post.tags contains 'monthly'"
+    | where_exp: "post", "post.tags contains 'music'" %}
   {% assign monthly_posts = monthly_posts | sort: "date" | reverse %}
 
   <ul>
     {% for post in monthly_posts limit:6 %}
       <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
       </li>
     {% endfor %}
   </ul>
 
   <p class="monthly-more">
-    <a href="/monthly/">→ archive</a>
+    <a href="{{ '/monthly/' | relative_url }}">→ archive</a>
   </p>
 </div>
 
