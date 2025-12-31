@@ -28,15 +28,15 @@ title: ようこそ！
 {% assign new_threshold_days = 7 %}
 {% assign recent_posts = "" | split: "" %}
 
-{% for post in recent_posts %}
-  {% unless post.tags contains 'monthly' %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      <span style="color:red;font-size:0.8em;font-weight:bold;">[NEW]</span>
-    </li>
-  {% endunless %}
+{% for post in site.posts %}
+  {% assign post_time = post.date | date: '%s' %}
+  {% assign days_since_post = now | minus: post_time | divided_by: 86400 %}
+  {% if days_since_post <= new_threshold_days %}
+    {% unless post.tags contains 'monthly' %}
+      {% assign recent_posts = recent_posts | push: post %}
+    {% endunless %}
+  {% endif %}
 {% endfor %}
-
 
 {% if recent_posts.size > 0 %}
   <h2>Latest updates</h2>
@@ -44,12 +44,11 @@ title: ようこそ！
     {% for post in recent_posts %}
       <li>
         <a href="{{ post.url }}">{{ post.title }}</a>
-        <span style="color: red; font-size: 0.8em; font-weight: bold;">[NEW]</span>
+        <span style="color:red;font-size:0.8em;font-weight:bold;">[NEW]</span>
       </li>
     {% endfor %}
   </ul>
 {% endif %}
-
 
 <h2>About</h2>
 
