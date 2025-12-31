@@ -58,3 +58,14 @@
 .monthly-more a:hover {
   text-decoration: underline;
 }
+
+/* Monthly helps textは小さく、記事タイトルは通常サイズに戻す */
+.monthly-archive-mini {
+  font-size: 0.85em;
+  color: #aaa;
+}
+
+.monthly-archive-mini li a {
+  font-size: 1em;   /* ← ここが肝 */
+  color: #fff;
+}
