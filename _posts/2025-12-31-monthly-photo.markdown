@@ -7,7 +7,7 @@ author: Ganmen1281
 
 ![]({{ site.baseurl }}/assets/img/DJ5.jpg)
 
-いいDJ。
+いい野外DJ。
 
 <div class="author-box">
   <div class="author-portrait">
