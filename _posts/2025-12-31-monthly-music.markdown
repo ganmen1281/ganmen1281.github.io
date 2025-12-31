@@ -11,7 +11,7 @@ author: Ganmen1281
 
 そうそう、2026年からはこの今月シリーズをアーカイブするようにしました。自分が振り返って確認したいという部分が一番強いですが、皆さんも気になったら探ってみてください。ちなみにこれまでのデータはどっか行きました。
 
-[→アーカイブ]({{ site.baseurl }}{% post_url monthly %})
+[→アーカイブ]({{ site.baseurl }}{% post_url monthly.md %})
 
 <div class="author-box">
   <div class="author-portrait">
