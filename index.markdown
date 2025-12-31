@@ -24,6 +24,22 @@ title: ようこそ！
   </p>
 </div>
 
+<h2>About</h2>
+
+{% assign intro_posts1 = site.posts | where_exp: "post", "post.tags contains 'intro'" %}
+{% assign intro_posts2 = site.posts | where_exp: "post", "post.tags contains 'intro2'" %}
+{% assign intro_posts = intro_posts1 | concat: intro_posts2 | uniq %}
+
+{% if intro_posts.size > 0 %}
+  <ul>
+    {% for post in intro_posts %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <p>自己紹介記事がまだありません。</p>
+{% endif %}
+
 {% assign now = 'now' | date: '%s' %}
 {% assign new_threshold_days = 7 %}
 {% assign recent_posts = "" | split: "" %}
@@ -49,23 +65,6 @@ title: ようこそ！
     {% endfor %}
   </ul>
 {% endif %}
-
-<h2>About</h2>
-
-{% assign intro_posts1 = site.posts | where_exp: "post", "post.tags contains 'intro'" %}
-{% assign intro_posts2 = site.posts | where_exp: "post", "post.tags contains 'intro2'" %}
-{% assign intro_posts = intro_posts1 | concat: intro_posts2 | uniq %}
-
-{% if intro_posts.size > 0 %}
-  <ul>
-    {% for post in intro_posts %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% else %}
-  <p>自己紹介記事がまだありません。</p>
-{% endif %}
-
 
 <h2>News</h2>
 <ul>
