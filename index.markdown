@@ -14,7 +14,6 @@ title: ようこそ！
   <ul>
     {% for post in monthly_posts limit:6 %}
       <li>
-        <span class="month">{{ post.date | date: "%Y-%m" }}</span>
         <a href="{{ post.url }}">{{ post.title }}</a>
       </li>
     {% endfor %}
