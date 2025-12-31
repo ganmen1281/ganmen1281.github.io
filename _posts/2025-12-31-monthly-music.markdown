@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 今月の一曲（2026-01）
-tags: monthly music
+tags: [monthly, photo]
 author: Ganmen1281
 ---
 

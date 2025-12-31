@@ -6,23 +6,36 @@ title: ようこそ！
 ---
 
 <h2>Monthly</h2>
-<ul>
-  {% assign monthly_posts = site.tags.monthly | sort: "date" | reverse %}
-  {% for post in monthly_posts limit: 2 %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+
+<div class="monthly-archive-mini">
+  {% assign monthly_posts = site.posts | where_exp: "post", "post.tags contains 'monthly'" %}
+  {% assign monthly_posts = monthly_posts | sort: "date" | reverse %}
+
+  <ul>
+    {% for post in monthly_posts limit:6 %}
+      <li>
+        <span class="month">{{ post.date | date: "%Y-%m" }}</span>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="monthly-more">
+    <a href="/monthly/">→ archive</a>
+  </p>
+</div>
 
 {% assign now = 'now' | date: '%s' %}
 {% assign new_threshold_days = 7 %}
 {% assign recent_posts = "" | split: "" %}
 
-{% for post in site.posts %}
-  {% assign post_time = post.date | date: '%s' %}
-  {% assign days_since_post = now | minus: post_time | divided_by: 86400 %}
-  {% if days_since_post <= new_threshold_days %}
-    {% assign recent_posts = recent_posts | push: post %}
-  {% endif %}
+{% for post in recent_posts %}
+  {% unless post.tags contains 'monthly' %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <span style="color:red;font-size:0.8em;font-weight:bold;">[NEW]</span>
+    </li>
+  {% endunless %}
 {% endfor %}
 
 

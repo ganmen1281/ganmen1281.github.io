@@ -58,3 +58,33 @@
   line-height: 1.5;
   color: #ccc;
 }
+
+.monthly-archive-mini {
+  font-size: 0.85em;
+  color: #aaa;
+  margin-bottom: 2em;
+}
+
+.monthly-archive-mini ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0.5em 0;
+}
+
+.monthly-archive-mini li {
+  margin: 0.2em 0;
+}
+
+.monthly-archive-mini .month {
+  color: #666;
+  margin-right: 0.4em;
+}
+
+.monthly-more a {
+  color: #888;
+  text-decoration: none;
+}
+
+.monthly-more a:hover {
+  text-decoration: underline;
+}
