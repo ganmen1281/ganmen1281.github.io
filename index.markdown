@@ -8,13 +8,28 @@ title: ようこそ！
 <h2>Monthly</h2>
 
 <div class="monthly-archive-mini">
-  {% assign monthly_posts = site.posts
+  {% assign monthly_music = site.posts
     | where_exp: "post", "post.tags contains 'monthly'"
-    | where_exp: "post", "post.tags contains 'music'" %}
-  {% assign monthly_posts = monthly_posts | sort: "date" | reverse %}
+    | where_exp: "post", "post.tags contains 'music'"
+    | sort: "date"
+    | reverse %}
 
   <ul>
-    {% for post in monthly_posts limit:6 %}
+    {% for post in monthly_music limit:3 %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+
+  {% assign monthly_photo = site.posts
+    | where_exp: "post", "post.tags contains 'monthly'"
+    | where_exp: "post", "post.tags contains 'photo'"
+    | sort: "date"
+    | reverse %}
+
+  <ul>
+    {% for post in monthly_photo limit:3 %}
       <li>
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
       </li>
@@ -25,6 +40,7 @@ title: ようこそ！
     <a href="{{ '/monthly/' | relative_url }}">→ archive</a>
   </p>
 </div>
+
 
 <h2>About</h2>
 
