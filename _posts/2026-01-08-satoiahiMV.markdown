@@ -82,3 +82,4 @@ video
 [里石ユカ]: https://satoishiyuka.wixsite.com/satoishi
 [kusumu]: https://x.com/kus_umu
 [衍]: https://x.com/hiro___016016
+[原口沙輔]: https://x.com/sasuke_maschine
