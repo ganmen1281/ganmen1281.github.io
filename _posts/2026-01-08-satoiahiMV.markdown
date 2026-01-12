@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "原口沙輔『祈りニ愛ヲ』- MVを制作しました。"
-date: 2025-12-26 00:00:00 +0800
+date: 2026-01-08 00:00:00 +0800
 categories: 携わったもの
 author: Ganmen1281
 tags:
