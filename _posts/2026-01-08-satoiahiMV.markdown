@@ -17,16 +17,25 @@ tags:
 以下クレジットです。
 
 music
+
 作詞,作曲,編曲Mix,Master [原口沙輔]
 
 video
+
 グラフィックデザイン [原口沙輔]
+
 監督／演出／アクター [黒岩秀太]
+
 撮影監督 Ganmen1281
+
 カラリスト／撮影補助 [kouki kikukawa]
+
 全体補助 大西遥己
+
 機材協力 [顔面ハプニング'S]({{ site.baseurl }}{% post_url 2025-07-29-intro2 %})
+
 映像編集 [kusumu]
+
 イラスト [衍]
 
 
