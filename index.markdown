@@ -5,14 +5,18 @@ title: ようこそ！
 
 ---
 
+{% assign this_month = "now" | date: "%Y-%m" %}
+
 <h2>Monthly</h2>
 
 <div class="monthly-archive-mini">
-  {% assign monthly_music = site.posts
-    | where_exp: "post", "post.tags contains 'monthly'"
-    | where_exp: "post", "post.tags contains 'music'"
-    | sort: "date"
-    | reverse %}
+{% assign monthly_music = site.posts
+  | where_exp: "post", "post.tags contains 'monthly'"
+  | where_exp: "post", "post.tags contains 'music'"
+  | where_exp: "post", "post.date | date: '%Y-%m' == this_month"
+  | sort: "date"
+  | reverse %}
+
 
   <ul>
     {% for post in monthly_music limit:3 %}
@@ -22,11 +26,13 @@ title: ようこそ！
     {% endfor %}
   </ul>
 
-  {% assign monthly_photo = site.posts
-    | where_exp: "post", "post.tags contains 'monthly'"
-    | where_exp: "post", "post.tags contains 'photo'"
-    | sort: "date"
-    | reverse %}
+ {% assign monthly_photo = site.posts
+  | where_exp: "post", "post.tags contains 'monthly'"
+  | where_exp: "post", "post.tags contains 'photo'"
+  | where_exp: "post", "post.date | date: '%Y-%m' == this_month"
+  | sort: "date"
+  | reverse %}
+
 
   <ul>
     {% for post in monthly_photo limit:3 %}
