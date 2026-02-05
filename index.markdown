@@ -1,8 +1,6 @@
 ---
-
 layout: default
 title: ようこそ！
-
 ---
 
 {% assign this_month = "now" | date: "%Y-%m" %}
@@ -10,41 +8,39 @@ title: ようこそ！
 <h2>Monthly</h2>
 
 <div class="monthly-archive-mini">
-{% assign monthly_music = site.posts
-  | where_exp: "post", "post.tags contains 'monthly'"
-  | where_exp: "post", "post.tags contains 'music'"
-  | where_exp: "post", "post.date | date: '%Y-%m' == this_month"
-  | sort: "date"
-  | reverse %}
 
-
+  <!-- 今月の一曲 -->
   <ul>
-    {% for post in monthly_music limit:3 %}
-      <li>
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
+  {% for post in site.posts %}
+    {% if post.tags contains 'monthly' and post.tags contains 'music' %}
+      {% assign post_month = post.date | date: "%Y-%m" %}
+      {% if post_month == this_month %}
+        <li>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
   </ul>
 
- {% assign monthly_photo = site.posts
-  | where_exp: "post", "post.tags contains 'monthly'"
-  | where_exp: "post", "post.tags contains 'photo'"
-  | where_exp: "post", "post.date | date: '%Y-%m' == this_month"
-  | sort: "date"
-  | reverse %}
-
-
+  <!-- 今月の写真 -->
   <ul>
-    {% for post in monthly_photo limit:3 %}
-      <li>
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
+  {% for post in site.posts %}
+    {% if post.tags contains 'monthly' and post.tags contains 'photo' %}
+      {% assign post_month = post.date | date: "%Y-%m" %}
+      {% if post_month == this_month %}
+        <li>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
   </ul>
 
   <p class="monthly-more">
     <a href="{{ '/monthly/' | relative_url }}">→ archive</a>
   </p>
+
 </div>
 
 
@@ -63,6 +59,7 @@ title: ようこそ！
 {% else %}
   <p>自己紹介記事がまだありません。</p>
 {% endif %}
+
 
 {% assign now = 'now' | date: '%s' %}
 {% assign new_threshold_days = 7 %}
@@ -90,6 +87,7 @@ title: ようこそ！
   </ul>
 {% endif %}
 
+
 <h2>News</h2>
 <ul>
   {% assign topics = "works,act,hobby" | split: "," %}
@@ -110,6 +108,7 @@ title: ようこそ！
   {% endfor %}
 </ul>
 
+
 {% assign movie_posts = site.posts | where_exp: "post", "post.tags contains 'zakki'" %}
 <h2>Kakidame</h2>
 <ul>
@@ -120,8 +119,6 @@ title: ようこそ！
 
 <br>
 Twitter: (at) ganmen1281  
-Mail:ganmen1281douga (at) gmail.com  
-
-[としめ]: https://enensoen.com/toshime/
+Mail: ganmen1281douga (at) gmail.com  
 
 <p><small>&copy; {{ "now" | date: "%Y" }} Ganmen1281. All rights reserved.</small></p>
