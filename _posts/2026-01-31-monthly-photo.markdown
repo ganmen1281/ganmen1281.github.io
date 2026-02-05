@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 今月の一枚（2026-01）
+title: 今月の一枚（2026-02）
 tags: [monthly, photo]
 author: Ganmen1281
 ---
