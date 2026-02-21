@@ -32,7 +32,7 @@ video
 
 全体補助 大西遥己
 
-機材協力 [顔面ハプニング'S]({{ site.baseurl }}{% post_url 2025-07-29-intro2 %})
+機材協力 顔面ハプニング'S
 
 映像編集 [kusumu]
 
