@@ -120,23 +120,3 @@ Twitter: (at) ganmen1281
 Mail: ganmen1281douga (at) gmail.com  
 
 <p><small>&copy; {{ "now" | date: "%Y" }} Ganmen1281. All rights reserved.</small></p>
-
-<button id="henshinBtn">▶ 変身</button>
-<div id="cutin"></div>
-
-<script>
-const btn = document.getElementById("henshinBtn");
-const cutin = document.getElementById("cutin");
-
-btn.addEventListener("click", () => {
-  cutin.classList.add("active");
-
-  setTimeout(() => {
-    document.body.classList.toggle("henshin");
-  }, 200);
-
-  setTimeout(() => {
-    cutin.classList.remove("active");
-  }, 600);
-});
-</script>
