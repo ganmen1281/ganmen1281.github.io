@@ -3,6 +3,16 @@ layout: default
 title: ようこそ！
 ---
 
+<button id="henshin-btn">変身</button>
+
+<div id="cutin-overlay">
+  <div class="cutin-quote"></div>
+  <div class="cutin-slash"></div>
+  <img src="/assets/images/me.png" class="cutin-photo">
+</div>
+
+<script src="/assets/js/henshin.js"></script>
+
 {% assign this_month = "now" | date: "%Y-%m" %}
 
 <h2>Monthly</h2>
