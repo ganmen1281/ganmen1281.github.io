@@ -121,26 +121,42 @@ Mail: ganmen1281douga (at) gmail.com
 
 <p><small>&copy; {{ "now" | date: "%Y" }} Ganmen1281. All rights reserved.</small></p>
 
-<button id="henshinBtn">▶ 変身</button>
-<div id="cutin"></div>
-
 <script>
 document.addEventListener("DOMContentLoaded", function() {
-  const btn = document.getElementById("henshinBtn");
-  const cutin = document.getElementById("cutin");
 
-  if (!btn) return;
+  const btn = document.getElementById("henshinBtn");
+
+  function randomColor() {
+    const letters = "0123456789ABCDEF";
+    let color = "#";
+    for (let i = 0; i < 6; i++) {
+      color += letters[Math.floor(Math.random() * 16)];
+    }
+    return color;
+  }
 
   btn.addEventListener("click", () => {
-    cutin.classList.add("active");
 
-    setTimeout(() => {
-      document.body.classList.toggle("henshin");
-    }, 200);
+    const bg = randomColor();
+    const text = randomColor();
+    const link = randomColor();
 
-    setTimeout(() => {
-      cutin.classList.remove("active");
-    }, 600);
+    // bodyだけじゃなくhtmlも変更
+    document.documentElement.style.backgroundColor = bg;
+    document.body.style.backgroundColor = bg;
+    document.body.style.color = text;
+
+    // 見出しも変更
+    document.querySelectorAll("h1,h2,h3,h4,h5,h6").forEach(el => {
+      el.style.color = text;
+    });
+
+    // リンク色変更
+    document.querySelectorAll("a").forEach(a => {
+      a.style.color = link;
+    });
+
   });
+
 });
 </script>
