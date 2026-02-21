@@ -18,9 +18,18 @@ btn.addEventListener("click", () => {
 
   overlay.classList.add("active");
 
+  // 0.2秒：テキスト出現
   setTimeout(() => overlay.classList.add("show-text"), 200);
+
+  // 0.8秒：光のスラッシュ
   setTimeout(() => overlay.classList.add("show-slash"), 800);
+
+  // 1.0秒：写真出現
+  const photo = overlay.querySelector(".cutin-photo");
+  photo.src = "/assets/images/me.png"; // me.png に変更
   setTimeout(() => overlay.classList.add("show-photo"), 1000);
-  setTimeout(() => overlay.classList.remove("active", "show-text", "show-slash", "show-photo"), 2000);
+
+  // 5秒後に全体非表示
+  setTimeout(() => overlay.classList.remove("active", "show-text", "show-slash", "show-photo"), 5000);
 
 });
