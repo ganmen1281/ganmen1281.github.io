@@ -144,8 +144,8 @@ header h1::before {
 
 .cutin-photo {
   position: absolute;
-  max-width: 75%;
-  max-height: 75%;
+  max-width: 90%;   /* 元は75% → 90%に変更 */
+  max-height: 90%;  /* 元は75% → 90%に変更 */
   opacity: 0;
   transform: scale(0.3);
 }

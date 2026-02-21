@@ -25,8 +25,8 @@ btn.addEventListener("click", () => {
   setTimeout(() => overlay.classList.add("show-slash"), 800);
 
   // 1.0秒：写真出現
-  const photo = overlay.querySelector(".cutin-photo");
-  photo.src = "/assets/images/me.png"; // me.png に変更
+const photo = overlay.querySelector(".cutin-photo");
+photo.src = "/assets/img/me.png"; // 正しいパスに修正
   setTimeout(() => overlay.classList.add("show-photo"), 1000);
 
   // 5秒後に全体非表示

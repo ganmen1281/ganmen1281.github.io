@@ -8,7 +8,7 @@ title: ようこそ！
 <div id="cutin-overlay">
   <div class="cutin-quote"></div>
   <div class="cutin-slash"></div>
-  <img src="/assets/images/me.png" class="cutin-photo">
+  <img src="/assets/img/me.png" class="cutin-photo">
 </div>
 
 <script src="/assets/js/henshin.js"></script>
