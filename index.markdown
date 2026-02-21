@@ -121,6 +121,8 @@ Mail: ganmen1281douga (at) gmail.com
 
 <p><small>&copy; {{ "now" | date: "%Y" }} Ganmen1281. All rights reserved.</small></p>
 
+<button id="henshinBtn">▶ 変身</button>
+
 <script>
 document.addEventListener("DOMContentLoaded", function() {
 
