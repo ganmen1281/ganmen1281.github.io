@@ -48,7 +48,7 @@ title: ようこそ！
 
 {% assign intro_posts1 = site.posts | where_exp: "post", "post.tags contains 'intro'" %}
 {% assign intro_posts2 = site.posts | where_exp: "post", "post.tags contains 'intro2'" %}
-{% assign intro_posts = intro_posts1 | concat: intro_posts2 | uniq %}
+{% assign intro_posts = intro_posts1 | uniq %}
 
 {% if intro_posts.size > 0 %}
   <ul>
