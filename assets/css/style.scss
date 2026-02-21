@@ -71,3 +71,7 @@
 .monthly-more a:hover {
   text-decoration: underline;
 }
+
+.site-title::before {
+  content: none !important;
+}
