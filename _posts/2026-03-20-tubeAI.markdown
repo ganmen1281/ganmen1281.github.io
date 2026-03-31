@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "『NPCは生きている？現代までのゲームAI史』を公開しました。"
-date: 2026-03-16 00:00:00 +0800
+date: 2026-03-20 00:00:00 +0800
 categories: 携わったもの
 author: Ganmen1281
 tags:
