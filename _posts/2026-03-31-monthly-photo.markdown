@@ -7,7 +7,7 @@ author: Ganmen1281
 
 ![]({{ site.baseurl }}/assets/img/IMG_0089.jpg)
 
-かわいいフォントの『家畜』！
+かわいいフォントの『家畜』！万博記念公園にありました。
 
 <div class="author-box">
   <div class="author-portrait">
