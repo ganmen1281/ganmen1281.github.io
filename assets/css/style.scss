@@ -3,6 +3,80 @@
 @import "{{ site.theme }}";
 
 /* ==================================================
+   白背景 + 青文字 テーマ上書き
+   ================================================== */
+
+/* 背景を白に */
+body {
+  background-color: #ffffff !important;
+  color: #1a3a5c !important;
+}
+
+/* ヘッダー背景も白に */
+header {
+  background-color: #ffffff !important;
+  border-bottom: 1px solid #ccd9e8;
+}
+
+/* リンク色を青系に */
+a {
+  color: #1a6eb5 !important;
+}
+
+a:hover {
+  color: #0d4f8a !important;
+}
+
+/* ナビ・見出し色 */
+h1, h2, h3, h4, h5, h6 {
+  color: #1a3a5c !important;
+}
+
+/* Hackerテーマのターミナル風装飾を打ち消す */
+body::before,
+header::before,
+nav::before {
+  content: none !important;
+}
+
+/* コードブロックなども白背景に合わせる */
+pre, code {
+  background-color: #eef3f9 !important;
+  color: #1a3a5c !important;
+  border: 1px solid #ccd9e8;
+}
+
+/* wrapper/sectionの背景も白に */
+#main_content_wrap,
+#main_content,
+.inner,
+section {
+  background-color: #ffffff !important;
+}
+
+/* ==================================================
+   鉄塔の画像（ページ右側に配置）
+   ================================================== */
+
+body::after {
+  content: "";
+  display: block;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 280px;
+  height: 90vh;
+  background-image: url("/assets/img/dencyu.jpg"); /* ← JPGのままでOK */
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  background-size: contain;
+  pointer-events: none;
+  z-index: 0;
+  mix-blend-mode: multiply; /* ← これが白背景を透過させる魔法 */
+  opacity: 0.75;
+}
+
+/* ==================================================
    Author box
    ================================================== */
 
@@ -11,7 +85,7 @@
   gap: 12px;
   margin-top: 2rem;
   padding-top: 1rem;
-  border-top: 1px solid #444;
+  border-top: 1px solid #ccd9e8;
   font-size: 0.85rem;
 }
 
@@ -30,21 +104,19 @@
   margin: 0;
   font-size: 0.8rem;
   line-height: 1.5;
-  color: #ccc;
+  color: #4a6a8a;
 }
 
 /* ==================================================
    Monthly mini archive
    ================================================== */
 
-/* 周辺UI（説明・余白）は小さめ */
 .monthly-archive-mini {
   font-size: 0.85em;
-  color: #aaa;
+  color: #4a6a8a;
   margin-bottom: 2em;
 }
 
-/* Hackerテーマ標準の字下げに合わせる */
 .monthly-archive-mini ul {
   list-style: none;
   padding-left: 2em;
@@ -55,16 +127,14 @@
   margin: 0.25em 0;
 }
 
-/* マンスリー記事タイトルは通常サイズ・テーマ色のまま */
 .monthly-archive-mini ul li a {
   font-size: 1rem;
   font-weight: normal;
 }
 
-/* archiveリンクだけ控えめ */
 .monthly-more a {
   font-size: 0.85em;
-  color: #888;
+  color: #6a8aaa;
   text-decoration: none;
 }
 
@@ -79,6 +149,10 @@
 header h1::before {
   content: "" !important;
 }
+
+/* ==================================================
+   変身ボタン・カットイン演出（変更なし）
+   ================================================== */
 
 #henshin-btn {
   position: fixed;
@@ -144,8 +218,8 @@ header h1::before {
 
 .cutin-photo {
   position: absolute;
-  max-width: 90%;   /* 元は75% → 90%に変更 */
-  max-height: 90%;  /* 元は75% → 90%に変更 */
+  max-width: 90%;
+  max-height: 90%;
   opacity: 0;
   transform: scale(0.3);
 }
