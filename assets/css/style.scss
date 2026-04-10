@@ -6,19 +6,18 @@
    白背景 + 青文字 テーマ上書き
    ================================================== */
 
-/* 背景を白に */
+html,
 body {
+  background: #ffffff !important;
   background-color: #ffffff !important;
   color: #1a3a5c !important;
 }
 
-/* ヘッダー背景も白に */
 header {
   background-color: #ffffff !important;
   border-bottom: 1px solid #ccd9e8;
 }
 
-/* リンク色を青系に */
 a {
   color: #1a6eb5 !important;
 }
@@ -27,9 +26,10 @@ a:hover {
   color: #0d4f8a !important;
 }
 
-/* ナビ・見出し色 */
-h1, h2, h3, h4, h5, h6 {
-  color: #1a3a5c !important;
+#main_content a,
+.inner a,
+section a {
+  color: #1a6eb5 !important;
 }
 
 /* Hackerテーマのターミナル風装飾を打ち消す */
@@ -39,23 +39,65 @@ nav::before {
   content: none !important;
 }
 
-/* コードブロックなども白背景に合わせる */
 pre, code {
   background-color: #eef3f9 !important;
   color: #1a3a5c !important;
   border: 1px solid #ccd9e8;
 }
 
-/* wrapper/sectionの背景も白に */
+/* ==================================================
+   ラッパー・外枠を白に
+   ================================================== */
+
+#wrapper {
+  background: #ffffff !important;
+  border-left: none !important;
+  border-right: none !important;
+  box-shadow: none !important;
+}
+
+.outer,
+.inner,
+#outer_wrap,
+#header_wrap,
 #main_content_wrap,
 #main_content,
-.inner,
+#footer_wrap,
 section {
   background-color: #ffffff !important;
 }
 
 /* ==================================================
-   鉄塔の画像（ページ右側に配置）
+   見出し（サイトタイトル・セクション名のみ黒）
+   ================================================== */
+
+header h1,
+#main_content h2 {
+  color: #111111 !important;
+  text-shadow: none !important;
+}
+
+/* ==================================================
+   >> を青で自前描画
+   ================================================== */
+
+ul li {
+  list-style-image: none !important;
+  list-style-type: none !important;
+  position: relative;
+  padding-left: 2em;
+}
+
+ul li::before {
+  content: ">>";
+  position: absolute;
+  left: 0;
+  color: #1a6eb5 !important;
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+}
+
+/* ==================================================
+   鉄塔画像
    ================================================== */
 
 body::after {
@@ -66,13 +108,13 @@ body::after {
   right: 0;
   width: 280px;
   height: 90vh;
-  background-image: url("/assets/img/dencyu.png"); /* ← JPGのままでOK */
+  background-image: url("/assets/img/dencyu.png");
   background-repeat: no-repeat;
   background-position: bottom right;
   background-size: contain;
   pointer-events: none;
   z-index: 0;
-  mix-blend-mode: multiply; /* ← これが白背景を透過させる魔法 */
+  mix-blend-mode: normal;
   opacity: 0.75;
 }
 
@@ -151,7 +193,7 @@ header h1::before {
 }
 
 /* ==================================================
-   変身ボタン・カットイン演出（変更なし）
+   変身ボタン・カットイン演出
    ================================================== */
 
 #henshin-btn {
@@ -255,76 +297,4 @@ header h1::before {
     transform: scale(1);
     filter: brightness(1);
   }
-}
-
-/* 外枠の黒を完全に白にする */
-html,
-body {
-  background: #ffffff !important;
-}
-
-/* Hackerテーマのコンテンツ外側ラッパー */
-#wrapper {
-  background: #ffffff !important;
-  border-left: none !important;
-  border-right: none !important;
-  box-shadow: none !important;
-}
-
-/* outer_wrap や page_wrap など Jekyll テーマ系のラッパー */
-.outer,
-.inner,
-#outer_wrap,
-#header_wrap,
-#main_content_wrap,
-#footer_wrap {
-  background: #ffffff !important;
-}
-
-#main_content a,
-.inner a,
-section a {
-  color: #1a6eb5 !important;
-}
-
-/* >> を青い文字で自前描画（テーマのbullet.png画像を上書き） */
-ul li {
-  list-style-image: none !important;
-  list-style-type: none !important;
-  position: relative;
-  padding-left: 2em;
-}
-
-ul li::before {
-  content: ">>";
-  position: absolute;
-  left: 0;
-  color: #1a6eb5 !important;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-}
-
-/* タイトル・見出しを黒に */
-h1, h2, h3, h4, h5, h6,
-#main_content h1,
-#main_content h2,
-#main_content h3,
-#main_content h4,
-#main_content h5,
-#main_content h6,
-header h1 {
-  color: #111111 !important;
-  text-shadow: none !important;
-}
-
-/* サイトタイトル・セクション見出しを黒に */
-header h1,
-#main_content h2 {
-  color: #111111 !important;
-  text-shadow: none !important;
-}
-
-body::after {
-  background-image: url("/assets/img/dencyu.png");
-  mix-blend-mode: normal; /* multiplyをやめる */
-  opacity: 0.75;
 }
