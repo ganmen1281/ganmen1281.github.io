@@ -96,28 +96,6 @@ ul li::before {
 }
 
 /* ==================================================
-   鉄塔画像
-   ================================================== */
-
-body::after {
-  content: "";
-  display: block;
-  position: fixed;
-  bottom: 0;
-  right: 0;
-  width: 280px;
-  height: 90vh;
-  background-image: url("/assets/img/dencyu.png");
-  background-repeat: no-repeat;
-  background-position: bottom right;
-  background-size: contain;
-  pointer-events: none;
-  z-index: 0;
-  mix-blend-mode: normal;
-  opacity: 0.75;
-}
-
-/* ==================================================
    Author box
    ================================================== */
 
