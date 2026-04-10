@@ -275,3 +275,8 @@ header h1::before {
     filter: brightness(1);
   }
 }
+
+#main_content h1 {
+  color: #1a6eb5 !important;
+  text-shadow: none !important;
+}
