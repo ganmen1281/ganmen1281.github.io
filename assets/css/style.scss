@@ -322,3 +322,9 @@ header h1,
   color: #111111 !important;
   text-shadow: none !important;
 }
+
+body::after {
+  background-image: url("/assets/img/dencyu.png");
+  mix-blend-mode: normal; /* multiplyをやめる */
+  opacity: 0.75;
+}
