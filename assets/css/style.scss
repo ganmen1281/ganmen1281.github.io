@@ -302,3 +302,23 @@ ul li::before {
   color: #1a6eb5 !important;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
+
+/* タイトル・見出しを黒に */
+h1, h2, h3, h4, h5, h6,
+#main_content h1,
+#main_content h2,
+#main_content h3,
+#main_content h4,
+#main_content h5,
+#main_content h6,
+header h1 {
+  color: #111111 !important;
+  text-shadow: none !important;
+}
+
+/* サイトタイトル・セクション見出しを黒に */
+header h1,
+#main_content h2 {
+  color: #111111 !important;
+  text-shadow: none !important;
+}
