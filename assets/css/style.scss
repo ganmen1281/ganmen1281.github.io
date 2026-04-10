@@ -287,17 +287,18 @@ section a {
   color: #1a6eb5 !important;
 }
 
-/* >> (::marker) と リンクを青に — 最強セレクタで上書き */
-html body #main_content_wrap a,
-html body #main_content a,
-html body .inner a,
-html body section a,
-html body ul li a,
-html body ol li a {
-  color: #1a6eb5 !important;
+/* >> を青い文字で自前描画（テーマのbullet.png画像を上書き） */
+ul li {
+  list-style-image: none !important;
+  list-style-type: none !important;
+  position: relative;
+  padding-left: 2em;
 }
 
-html body ul li,
-html body ol li {
+ul li::before {
+  content: ">>";
+  position: absolute;
+  left: 0;
   color: #1a6eb5 !important;
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
