@@ -256,3 +256,37 @@ header h1::before {
     filter: brightness(1);
   }
 }
+
+/* ==================================================
+   >> 記号を青色に（リスト項目の左の >> ）
+   ================================================== */
+
+li::before,
+nav li::before,
+ul li::before {
+  color: #1a6eb5 !important;
+}
+
+/* ==================================================
+   外枠（body周辺の黒い領域）を白に
+   ================================================== */
+
+html {
+  background-color: #ffffff !important;
+}
+
+/* Hackerテーマのwrapperやborder系も白に */
+div#wrapper,
+#header_wrap,
+#footer_wrap,
+#main_content_wrap {
+  background-color: #ffffff !important;
+  border-color: #ccd9e8 !important;
+}
+
+/* outer系の黒い余白も白に */
+body {
+  background-color: #ffffff !important;
+  border: none !important;
+  box-shadow: none !important;
+}
