@@ -257,36 +257,31 @@ header h1::before {
   }
 }
 
-/* ==================================================
-   >> 記号を青色に（リスト項目の左の >> ）
-   ================================================== */
-
-li::before,
-nav li::before,
-ul li::before {
-  color: #1a6eb5 !important;
-}
-
-/* ==================================================
-   外枠（body周辺の黒い領域）を白に
-   ================================================== */
-
-html {
-  background-color: #ffffff !important;
-}
-
-/* Hackerテーマのwrapperやborder系も白に */
-div#wrapper,
-#header_wrap,
-#footer_wrap,
-#main_content_wrap {
-  background-color: #ffffff !important;
-  border-color: #ccd9e8 !important;
-}
-
-/* outer系の黒い余白も白に */
+/* 外枠の黒を完全に白にする */
+html,
 body {
-  background-color: #ffffff !important;
-  border: none !important;
+  background: #ffffff !important;
+}
+
+/* Hackerテーマのコンテンツ外側ラッパー */
+#wrapper {
+  background: #ffffff !important;
+  border-left: none !important;
+  border-right: none !important;
   box-shadow: none !important;
+}
+
+/* outer_wrap や page_wrap など Jekyll テーマ系のラッパー */
+.outer,
+.inner,
+#outer_wrap,
+#header_wrap,
+#main_content_wrap,
+#footer_wrap {
+  background: #ffffff !important;
+}
+
+/* >> の色を青に */
+li::marker {
+  color: #1a6eb5 !important;
 }
