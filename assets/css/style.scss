@@ -286,3 +286,18 @@ body {
 section a {
   color: #1a6eb5 !important;
 }
+
+/* >> (::marker) と リンクを青に — 最強セレクタで上書き */
+html body #main_content_wrap a,
+html body #main_content a,
+html body .inner a,
+html body section a,
+html body ul li a,
+html body ol li a {
+  color: #1a6eb5 !important;
+}
+
+html body ul li,
+html body ol li {
+  color: #1a6eb5 !important;
+}
