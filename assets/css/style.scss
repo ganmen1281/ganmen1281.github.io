@@ -281,7 +281,8 @@ body {
   background: #ffffff !important;
 }
 
-/* >> の色を青に */
-li::marker {
+#main_content a,
+.inner a,
+section a {
   color: #1a6eb5 !important;
 }
