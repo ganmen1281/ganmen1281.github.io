@@ -3,33 +3,33 @@
 @import "{{ site.theme }}";
 
 /* ==================================================
-   白背景 + 青文字 テーマ上書き
+   黒背景 + 白文字 テーマ上書き
    ================================================== */
 
 html,
 body {
-  background: #ffffff !important;
-  background-color: #ffffff !important;
-  color: #1a3a5c !important;
+  background: #0d0d0d !important;
+  background-color: #0d0d0d !important;
+  color: #e8e8e8 !important;
 }
 
 header {
-  background-color: #ffffff !important;
-  border-bottom: 1px solid #ccd9e8;
+  background-color: #0d0d0d !important;
+  border-bottom: 1px solid #2a2a2a;
 }
 
 a {
-  color: #1a6eb5 !important;
+  color: #4a9eff !important;
 }
 
 a:hover {
-  color: #0d4f8a !important;
+  color: #7dbfff !important;
 }
 
 #main_content a,
 .inner a,
 section a {
-  color: #1a6eb5 !important;
+  color: #4a9eff !important;
 }
 
 body::before,
@@ -39,17 +39,17 @@ nav::before {
 }
 
 pre, code {
-  background-color: #eef3f9 !important;
-  color: #1a3a5c !important;
-  border: 1px solid #ccd9e8;
+  background-color: #1a1a1a !important;
+  color: #e8e8e8 !important;
+  border: 1px solid #2a2a2a;
 }
 
 /* ==================================================
-   ラッパー・外枠を白に
+   ラッパー・外枠を黒に
    ================================================== */
 
 #wrapper {
-  background: #ffffff !important;
+  background: #0d0d0d !important;
   border-left: none !important;
   border-right: none !important;
   box-shadow: none !important;
@@ -63,16 +63,26 @@ pre, code {
 #main_content,
 #footer_wrap,
 section {
-  background-color: #ffffff !important;
+  background-color: #0d0d0d !important;
 }
 
 /* ==================================================
-   見出し（サイトタイトル・セクション名のみ黒）
+   見出し（サイトタイトル・セクション名は白）
    ================================================== */
 
 header h1,
 #main_content h2 {
-  color: #111111 !important;
+  color: #ffffff !important;
+  text-shadow: none !important;
+}
+
+#main_content h1 {
+  color: #ffffff !important;
+  text-shadow: none !important;
+}
+
+header h2 {
+  color: #ffffff !important;
   text-shadow: none !important;
 }
 
@@ -91,7 +101,7 @@ ul li::before {
   content: ">>";
   position: absolute;
   left: 0;
-  color: #1a6eb5 !important;
+  color: #4a9eff !important;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
 
@@ -104,7 +114,7 @@ ul li::before {
   gap: 12px;
   margin-top: 2rem;
   padding-top: 1rem;
-  border-top: 1px solid #ccd9e8;
+  border-top: 1px solid #2a2a2a;
   font-size: 0.85rem;
 }
 
@@ -117,13 +127,14 @@ ul li::before {
 .author-profile h4 {
   margin: 0 0 0.25rem 0;
   font-size: 0.9rem;
+  color: #4a9eff !important;
 }
 
 .author-profile p {
   margin: 0;
   font-size: 0.8rem;
   line-height: 1.5;
-  color: #4a6a8a;
+  color: #aaaaaa;
 }
 
 /* ==================================================
@@ -132,7 +143,7 @@ ul li::before {
 
 .monthly-archive-mini {
   font-size: 0.85em;
-  color: #4a6a8a;
+  color: #aaaaaa;
   margin-bottom: 2em;
 }
 
@@ -153,7 +164,7 @@ ul li::before {
 
 .monthly-more a {
   font-size: 0.85em;
-  color: #6a8aaa;
+  color: #666666;
   text-decoration: none;
 }
 
@@ -274,18 +285,4 @@ header h1::before {
     transform: scale(1);
     filter: brightness(1);
   }
-}
-
-#main_content h1 {
-  color: #1a6eb5 !important;
-  text-shadow: none !important;
-}
-
-.author-profile h4 {
-  color: #1a6eb5 !important;
-}
-
-header h2 {
-  color: #111111 !important;
-  text-shadow: none !important;
 }
