@@ -7,7 +7,7 @@ author: Ganmen1281
 
 ![]({{ site.baseurl }}/assets/img/悲劇.jpg)
 
-帰りの新幹線の切符をなくしました。本当につらい。
+帰りの新幹線の切符をなくしました。本当につらい。やばい
 
 <div class="author-box">
   <div class="author-portrait">
