@@ -58,37 +58,43 @@ tags:
 
 ![]({{ site.baseurl }}/assets/img/そういう人.jpg)
 
+逆に『そういう人』感がよく働くのでは、と、『そういう人』がめちゃくちゃな偏見を垂れ流すという動画を撮って公募に提出したところ、環境省さんからそのコンペの最優秀賞をいただきました。
+
 ![]({{ site.baseurl }}/assets/img/ぐぐる2.png)
-
-逆に『そういう人』感がよく働くのでは、と、『そういう人』が登場する映像を撮って公募に提出したところ、環境省さんから映像の最優秀賞をいただきました。
-
-![]({{ site.baseurl }}/assets/img/TOHO.jpg)
 
 そこから、何故か東宝さんのスタジオに伺えたり
 
+![]({{ site.baseurl }}/assets/img/TOHO.jpg)
+
+東映さんのスタジオで働かせて頂いたり（一瞬）など、していました。
+
 ![]({{ site.baseurl }}/assets/img/TOEI.jpg)
-
-東映さんのスタジオで働かせて頂いたりなど、していました。
-
-[https://ncode.syosetu.com/n9855jx/]
 
 ちょうど同じくらいの時、自分なりにライトノベルを執筆しました。計百四十ページにものぼる超大作でしたが、電撃大賞一次落ち＋絶不評で自分には創作の才能がないのかとショックを受けました。あきらめきれず『なろう』にも投稿しましたが一切読まれることがなく、シンプルに絶望しました。一人だけ、Twitterのダイレクトメールで絶賛してくれた読者の方が居たので、無茶苦茶嬉しかったですが、ほとんど強制的に読ませた友達のほとんどからは滅茶苦茶微妙な反応をされました。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcbopaLTgNQ?si=k8Aalwp00vgo8JC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[https://ncode.syosetu.com/n9855jx/]
 
 卒業が近づくにつれ、徐々に絶望が深まりました。お察しの通りマトモな就職活動などを一切してこなかった僕が、マトモに就職などできるはずもなく、現実逃避をしながら、映画を撮っていました。映画は現実を忘れさせてくれたけれど、忘れたところで現実はずっと追いかけてくるので無意味でした。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hstcpAoxM28?si=mJtUJ67oyAsoItBT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcbopaLTgNQ?si=k8Aalwp00vgo8JC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+映画の話は[こっち]({{ site.baseurl }}{% post_url 2025-03-08-eiga %})で詳しく話していますよ。
 
 同時期、就活に悩みながらもやめられない趣味があり、ゲームの没データを調査するというものだったのですが（は？）、この面白さをもっと広めたいと思い、YouTubeを立ち上げたところ、一日で登録者が千人を突破しました。さすがに四十万再生を超えたあたりで「そんなに没データって面白かったか？」と世界を疑いました。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hstcpAoxM28?si=mJtUJ67oyAsoItBT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 というかYouTuberとして専門学校を卒業してしまい、いよいよ取返しがつかなくなってしまいました。卒業式はめちゃくちゃ遅刻した上に、私服で登壇するハメになり（登壇するなら事前に言ってほしかった）、最後の最後まで浮きっぱなしでした。クラスの大規模な飲み会とかにも誘われず、悲しい気分で卒業しました。
+
+![]({{site.baseurl}}/assets/img/Gl6j7hcbMAAJVbs.jpg)
 
 どうにかするしかねえ！と覚悟を決めて、何故かアイドルマネージャーとして就職してしまいました（は？）。紆余曲折あったのですが、大幅に端折るとこうなってしまいます。アイドルマネージャーとして勤務しながら、その傍らで映像の配信・中継現場に赴いていました。さすがにマネージャー業は向いていなさ過ぎて、自分でもどうしてそんな道を歩んだのか、辞職した今でも理解できません。が、学マス（ガチ）を体験できたので、人生経験としてはプラスだったと思います。
 
+アイドルマネージャーをしながら、MVを撮ったりなどもしていました。
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UKVwK3rXJII?si=57uSE99hINHkmaOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-アイドルマネージャーをしながら、Mvを撮ったりなどもしていました。
+原口さんの個人的なファンでもあったので、何度か制作でご一緒させて頂いている現状がマジでエグいです。クレジットなど諸々は[ここ]({{ site.baseurl }}{% post_url 2026-01-08-satoiahiMV copy %})から見れますよ。
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2306466029&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ganmen1281" title="HAP・HAP・HAPNICA" target="_blank" style="color: #cccccc; text-decoration: none;">HAP・HAP・HAPNICA</a> · <a href="https://soundcloud.com/ganmen1281/mix-2026-04-18-warp-archive" title="きまぐれアニソン☆MIX (2026-04-18 WARP ARCHIVE)" target="_blank" style="color: #cccccc; text-decoration: none;">きまぐれアニソン☆MIX (2026-04-18 WARP ARCHIVE)</a></div>
 
