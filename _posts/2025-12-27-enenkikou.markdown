@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "『煙々創苑』に記事を寄稿しています。"
+title:  "『煙々創苑』に記事を寄稿しました。"
 date: 2025-12-26 00:00:00 +0800
 categories: 携わったもの
 author: Ganmen1281
