@@ -1,0 +1,70 @@
+---
+layout: post
+title:  "『おお阪 in da party 2』の配信業務を担当しました。"
+date: 2025-08-28 00:00:00 +0800
+categories: 携わったもの,映像
+author: Ganmen1281
+tags:
+  - works
+---
+
+配信技術統括・スイッチャーを担当しました。
+
+インターネット・サークル『おおつく in da house』のリアルイベントです。古今東西に偏在する超一流DJを一挙に集めた凄まじいイベントでした。なんと2回目。そしてまたまたえげつない面々。
+
+こちらもえげつない装備で行きました。VJの皆さんにV-8HDを自慢しまくるという目的も達成しました(笑)
+
+![]({{ site.baseurl }}/assets/img/IMG_0741.jpg)
+
+チーム顔面ハプニング's (ver.1.0) での参加でした。羽坂,喜多の2人には前回から世話になりすぎです、本当にありがとう。
+
+![]({{ site.baseurl }}/assets/img/IMG_0733.jpg)
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://x.com/hashtag/%E6%A5%BD%E3%81%97%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%8A%E3%81%8A%E9%98%AA2?src=hash&amp;ref_src=twsrc%5Etfw">#楽しかったおお阪2</a><br>おお阪 IN DA PARTY!2、全日程終了致しました！！！！！！！<br>演者、スタッフさん、ご参加くださった皆々様、ありがとうございました！！！！！！！<br>サイコーの誕生日でした！！！！！！！ <a href="https://t.co/1HeyxiMO0k">pic.twitter.com/1HeyxiMO0k</a></p>&mdash; おおつく (@Quartz_Tea) <a href="https://x.com/Quartz_Tea/status/2093315174803673227?ref_src=twsrc%5Etfw">August 28, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<div class="author-box">
+  <div class="author-portrait">
+    <img src="{{ '/assets/img/ganmen4.JPG' | relative_url }}" alt="Ganmen1281">
+  </div>
+  <div class="author-profile">
+    <h4>Ganmen1281</h4>
+    <p>
+      生まれも育ちも兵庫県南西部・播州。<br>
+      10代の青春をアニメ・特撮・映画に捧げるも、特に報われることもなく20代に突入する。<br>
+      映画に捧げた青春は映画に返してほしかったので、ビジュアルアーツ専門学校入学。<br>
+      特に返ってくることもなく、卒業。<br>
+      現在は映像制作者・Youtuber・DJ・ライターとして活動中。
+    </p>
+  </div>
+</div>
+
+ [トップページに戻る]({{ "/" | relative_url }})
+
+[ラジエーションカレッジ2023]: https://www.env.go.jp/chemi/rhm/portal/communicate/college/r5.html
+[ぐぐるプロジェクト]:   https://www.env.go.jp/chemi/rhm/portal/communicate/
+[jekyll-talk]: https://talk.jekyllrb.com/
+[なきちゃん]: https://x.com/nakimichi_111
+[Negitoro]: https://x.com/Negitor0_dj
+[Molluscholar]: https://x.com/Molluscholar
+[d.j.ァネイロ]: https://x.com/dj_xaneiro
+[駄菓子O型]: https://x.com/OgataDagashi
+[ど～ぱみん]: https://x.com/DTM_dopamine
+[なみぐる]: https://x.com/namigroove
+[原口沙輔]: https://x.com/sasuke_maschine
+[フロクロ]: https://x.com/2r96
+[おおつく]: https://x.com/Quartz_Tea
+[MIDy]: https://x.com/midy9969nect
+[四度寝]: https://x.com/suyapachix4
+[TMPら]: https://x.com/7MPra
+[melonade]: https://x.com/melodynade
+[羽坂]: https://x.com/castro_2034
+
+[BMPCC4K]:https://www.blackmagicdesign.com/jp/products/blackmagicpocketcinemacamera/techspecs/W-CIN-12
+
+[Gopro Hero11]: https://gopro.com/ja/jp/shop/cameras/hero11-black/CHDHX-111-master.html?srsltid=AfmBOopWZ_rga1FrAcFnoEUS-k9RSzLXA4XO0q1BUu6YuOaVNGcU4aVH
+
+[ZV-e10]: https://www.sony.jp/ichigan/products/ZV-E10/?srsltid=AfmBOoqQk4jE4BXYQD27RKQleQDc7RtuHGnxvSEA4v4-ytuVgt_duoLh
+
+[ATEM Mini Pro]: https://www.blackmagicdesign.com/jp/products/atemmini/techspecs/W-APS-14
+
+<p><small>&copy; {{ "now" | date: "%Y" }} Ganmen1281. All rights reserved.</small></p>

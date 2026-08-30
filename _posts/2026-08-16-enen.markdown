@@ -1,20 +1,26 @@
 ---
 layout: post
-title:  "『煙々創苑』に所属しています。"
-date: 2025-10-04 00:00:00 +0800
+title:  "[『おひさま ピカピカ Happy Bassline DJ Mix (and more)』を制作しました。]"
+date: 2026-08-16 00:00:00 +0800
 categories: 携わったもの
 author: Ganmen1281
 tags:
   - works
 ---
 
-『煙々創苑』は『えんえんそうえん』と呼びます。
+DJとして出演し、撮影・編集を行いました。
 
-諸々の経緯やら何をしているかというのは[公式ページ]から参照してください。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SWKb4dgidb8?si=uJELP5fzbyA7nPsD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-所謂ライターのようなポジションで参加しています。時折更新される[図書室]を、お楽しみに。
+なんでも部長、なんでもやりすぎじゃない？
 
-肩書は『なんでも部長』です。
+以下クレジットです。
+
+おひさま ピカピカ Happy Bassline DJ Mix (and more) by DJ Ganmen
+
+Filming & Editing：顔面ハプニング(Ganmen1281)
+
+Special Appearance：きゃしろ
 
 <div class="author-box">
   <div class="author-portrait">

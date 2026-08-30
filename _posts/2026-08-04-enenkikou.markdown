@@ -1,20 +1,20 @@
 ---
 layout: post
-title:  "『煙々創苑』に所属しています。"
-date: 2025-10-04 00:00:00 +0800
+title:  "『煙々創苑』に記事を寄稿しています。"
+date: 2026-08-04 00:00:00 +0800
 categories: 携わったもの
 author: Ganmen1281
 tags:
   - works
 ---
 
-『煙々創苑』は『えんえんそうえん』と呼びます。
+[煙々創苑]公式サイト内、図書室にて[煙々創苑レポ② 姫路探訪・消えたモノレールの謎]を寄稿しています。
 
-諸々の経緯やら何をしているかというのは[公式ページ]から参照してください。
+![]({{site.baseurl}}/assets/img/surira-.png)
 
-所謂ライターのようなポジションで参加しています。時折更新される[図書室]を、お楽しみに。
-
-肩書は『なんでも部長』です。
+[煙々創苑]: https://enensoen.com/
+[図書室]: https://enensoen.com/library/
+[煙々創苑レポ② 姫路探訪・消えたモノレールの謎]: https://enensoen.com/library/ydxraaxrcd/
 
 <div class="author-box">
   <div class="author-portrait">
@@ -33,8 +33,5 @@ tags:
 </div>
 
  [トップページに戻る]({{ "/" | relative_url }})
-
-[公式ページ]: https://enensoen.com/
-[図書室]: https://enensoen.com/library/
 
 <p><small>&copy; {{ "now" | date: "%Y" }} Ganmen1281. All rights reserved.</small></p>
