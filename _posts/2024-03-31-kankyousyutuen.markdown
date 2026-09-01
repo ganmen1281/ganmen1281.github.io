@@ -6,6 +6,10 @@ categories: 携わったもの,出演
 author: Ganmen1281
 tags:
   - act
+thumbnail: /assets/img/thumbnails/25-workshop.png
+thumbnail_alt: 環境省ぐぐるプロジェクト・ワークショップで登壇する様子
+role: ワークショップ参加・出演
+description: 環境省ぐぐるプロジェクトのワークショップに参加した記録です。
 ---
 環境省主催のワークショップです。
 
@@ -15,7 +19,7 @@ tags:
 
 ものは言いようですが、環境省さんに向けて直接言葉をぶつける事が出来るという貴重な経験でした。
 
-![]({{site.baseurl}}/assets/img/ぐぐる.png)
+![掲載画像：ぐぐる]({{site.baseurl}}/assets/img/ぐぐる.png)
 
 というのは、主催の本公募に対しての意見・感想を思考し、提言するという内容のワークショップであった為ですが、きちんと提言した内容が短期間で反映される瞬間を目の当たりにすると、嬉しいものがあります。
 
@@ -27,21 +31,7 @@ tags:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BAsOSoXEFyo?si=qAc-EjQ_SgPx-rmt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<div class="author-box">
-  <div class="author-portrait">
-    <img src="{{ '/assets/img/ganmen4.JPG' | relative_url }}" alt="Ganmen1281">
-  </div>
-  <div class="author-profile">
-    <h4>Ganmen1281</h4>
-    <p>
-      生まれも育ちも兵庫県南西部・播州。<br>
-      10代の青春をアニメ・特撮・映画に捧げるも、特に報われることもなく20代に突入する。<br>
-      映画に捧げた青春は映画に返してほしかったので、ビジュアルアーツ専門学校入学。<br>
-      特に返ってくることもなく、卒業。<br>
-      現在は映像制作者・Youtuber・DJ・ライターとして活動中。
-    </p>
-  </div>
-</div>
+
 
  [トップページに戻る]({{ "/" | relative_url }})
 

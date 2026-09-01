@@ -6,6 +6,10 @@ categories: 携わったもの,映像
 author: Ganmen1281
 tags:
   - works
+thumbnail: /assets/img/thumbnails/25-ozm.png
+thumbnail_alt: 「ozm_sis vol.2」のイベント会場
+role: アーカイブ撮影
+description: 「ozm_sis vol.2」のアーカイブ撮影を担当しました。
 ---
 イベントアーカイブの撮影を行いました。
 
@@ -28,23 +32,9 @@ tags:
 [CDs]メンバーである[Saku]さんも演者として参加されていたり、主催[Tao Yamamoto]さんの行動力に圧倒されたり、自分にとっても良い刺激の連続だったように感じます。
 
 あ、人生初のバーカンもやりました。
-![]({{site.baseurl}}/assets/img/バーテン.jpg)
+![掲載画像：バーテン]({{site.baseurl}}/assets/img/バーテン.jpg)
 
-<div class="author-box">
-  <div class="author-portrait">
-    <img src="{{ '/assets/img/ganmen4.JPG' | relative_url }}" alt="Ganmen1281">
-  </div>
-  <div class="author-profile">
-    <h4>Ganmen1281</h4>
-    <p>
-      生まれも育ちも兵庫県南西部・播州。<br>
-      10代の青春をアニメ・特撮・映画に捧げるも、特に報われることもなく20代に突入する。<br>
-      映画に捧げた青春は映画に返してほしかったので、ビジュアルアーツ専門学校入学。<br>
-      特に返ってくることもなく、卒業。<br>
-      現在は映像制作者・Youtuber・DJ・ライターとして活動中。
-    </p>
-  </div>
-</div>
+
 
  [トップページに戻る]({{ "/" | relative_url }})
 

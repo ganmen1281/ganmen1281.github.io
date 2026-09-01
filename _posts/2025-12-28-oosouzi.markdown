@@ -28,7 +28,7 @@ Ganmenの森も、いよいよ運用から一年近く経とうとしている..
 
 [例の制作]({{ site.baseurl }}{% post_url 2025-04-22-mitou %})で九州へ。忙しすぎてろくに観光なんかはできなかったけれど、正直何度も九州に行き過ぎてもう普通のスポットには飽きていたので問題ナシ。
 
-![]({{site.baseurl}}/assets/img/IMG20250213012420.jpg)
+![掲載画像：IMG20250213012420]({{site.baseurl}}/assets/img/IMG20250213012420.jpg)
 
 寝ても覚めても終わらない制作は本当に久しぶりで、気が狂った僕が『Bluetoothイヤホン 剛田武コラボモデル』と称した謎の音声データを残している。
 
@@ -44,7 +44,7 @@ Ganmenの森も、いよいよ運用から一年近く経とうとしている..
 
 壇上にあげられるとは思わず、まさかの私服登壇。登壇者皆ドン引き。なお、左から顔面ハプニング'sより[喜多]、[コブトリ]。席から「戦場カメラマン」とヤジが飛ぶ。
 
-![]({{site.baseurl}}/assets/img/Gl6j7hcbMAAJVbs.jpg)
+![掲載画像：Gl6j7hcbMAAJVbs]({{site.baseurl}}/assets/img/Gl6j7hcbMAAJVbs.jpg)
 
 同時期、[おお阪 in da party]({{ site.baseurl }}{% post_url 2025-05-29-ootuku %})開催。そもそもは僕がめちゃくちゃ一方的に好きだった演者さんが出るので、客の立ち位置で参加しようと思っていたイベントに、あれよあれよという間にスタッフ側で参加することになってしまったという。配信スイッチャーやらを担当することに。[原口沙輔]さんから直接お褒めの言葉をいただいた事は忘れません。
 
@@ -58,7 +58,7 @@ Ganmenの森も、いよいよ運用から一年近く経とうとしている..
 
 大カプコン展、楽しかった。
 
-![]({{site.baseurl}}/assets/img/IMG20250411110627.jpg)
+![掲載画像：IMG20250411110627]({{site.baseurl}}/assets/img/IMG20250411110627.jpg)
 
 卒業してから、突然学生身分から社会にぶち込まれて困惑していた記憶がある。メンタルもイカれていた。
 
@@ -66,7 +66,7 @@ Ganmenの森も、いよいよ運用から一年近く経とうとしている..
 
 同じく何もない。友達とランダムにタバコを買って吸い比べ、うまい順に上から並べた。
 
-![]({{site.baseurl}}/assets/img/tabako.jpg)
+![掲載画像：tabako]({{site.baseurl}}/assets/img/tabako.jpg)
 
 アメスピのメンソールはマズ過ぎてぶっちぎりでビリだった。クールは結局メンソールの中では非常にマイルド且つおいしいという事が学べてよかった。よかったのか？
 
@@ -74,7 +74,7 @@ Ganmenの森も、いよいよ運用から一年近く経とうとしている..
 
 また展覧会に行った。士郎正宗の世界展。
 
-![]({{site.baseurl}}/assets/img/士郎正宗.jpg)
+![掲載画像：士郎正宗]({{site.baseurl}}/assets/img/士郎正宗.jpg)
 
 後から、九州の友達がこの展示会のpvを手伝ったとかで優待券をもらっていたことを知って発狂。しかもそいつは行かなかったらしい、諸々やばい。
 
@@ -82,21 +82,21 @@ Ganmenの森も、いよいよ運用から一年近く経とうとしている..
 
 そして同日、世田谷から渋谷、ひつじのショーン with ウォレスとグルミット展へ。
 
-![]({{site.baseurl}}/assets/img/ウォレス.jpg)
+![掲載画像：ウォレス]({{site.baseurl}}/assets/img/ウォレス.jpg)
 
 愛が深すぎる。語ろうと思うとこの行数では絶対に足りない。僕はひつじのショーンよりもウォレスとグルミットのほうが好きで、ほぼ彼らに育てられたと言っても過言ではないと思う。ニックパークのアニメーションに魅了されたのが、僕のアニメの原体験で、これが日本で展示会をやる、なんてのが2025年にあっていいのかという衝撃で、この日はあり得ないハードスケジュールをこなした。
 
 この後、VR CHATで出会った『全個人情報を晒しながらリアルフェイスアバターで暴れる男』こと[武内くん]に会うため、よくわからない立地のよくわからない大学に向かう事になる。
 
-![]({{site.baseurl}}/assets/img/たけうち.jpg)
+![掲載画像：たけうち]({{site.baseurl}}/assets/img/たけうち.jpg)
 
 帰り道、新宿駅でキャリーをロッカーに預けていて、そのロッカーがどこにあるのか分らなくなってガチ泣きする。
 
-![]({{site.baseurl}}/assets/img/rokka1.jpg)
+![掲載画像：rokka1]({{site.baseurl}}/assets/img/rokka1.jpg)
 
-![]({{site.baseurl}}/assets/img/rokka2.jpg)
+![掲載画像：rokka2]({{site.baseurl}}/assets/img/rokka2.jpg)
 
-![]({{site.baseurl}}/assets/img/rokka3.jpg)
+![掲載画像：rokka3]({{site.baseurl}}/assets/img/rokka3.jpg)
 
 ## 7月
 
@@ -110,7 +110,7 @@ Ganmenの森も、いよいよ運用から一年近く経とうとしている..
 
 流石に未知体験を極めていて面白かった。コテージを一つ貸切って、皆で寝泊まりするという恐ろしい体験。ネットなんて希薄な関係を気づきやすいツールをここまできちんと現実に落とし込むのはさぞ大変だったろうと企画者と話していて思う。そんな事はどうでもよくて浜辺でDJをしたら、知らない外国人が写真を撮ってきたり、遠くの喫煙所のにーちゃんらが踊ってたりと、凄まじいノリを見せてくれた。神だった。
 
-![]({{site.baseurl}}/assets/img/DJ.jpg)
+![掲載画像：DJ]({{site.baseurl}}/assets/img/DJ.jpg)
 
 映りこんでいるのはなんかカメラマンらしい。滅茶苦茶美人な彼女が居たけれど、多分もう別れてると思う。
 
@@ -118,11 +118,11 @@ Ganmenの森も、いよいよ運用から一年近く経とうとしている..
 
 車で東京までドライブ！...と、仕事の都合そうなっただけなので、そこまで旅行！って感じでもなかったけれど、顔面ハプニング's から[hasaka]くんが車載DJとなってブチあげてくれた。
 
-![]({{site.baseurl}}/assets/img/DJ3.jpg)
+![掲載画像：DJ3]({{site.baseurl}}/assets/img/DJ3.jpg)
 
 あとは異常にサービスエリアの喫煙所が遠かったりした。
 
-![]({{site.baseurl}}/assets/img/喫煙所.jpg)
+![掲載画像：喫煙所]({{site.baseurl}}/assets/img/喫煙所.jpg)
 
 あと首都高速って本当に混むんだなあと驚愕した。量が尋常じゃない。一体抜け出すのにいつまでかかるんだよ、と思いながらも、風景が面白すぎてずっと窓の外を眺めていたら目的地についていた。いなか者？
 
@@ -132,7 +132,7 @@ everyday撮影。大忙しの一か月。
 
 東京に仕事に行ったタイミングで、なぜか僕の仕事場まで来て会いに来てくれた友達が、ウォーターサーバーの勧誘に捕まるというありえないことが起き、それを解放しに行った。契約する二歩手前までいくとは、マジどういう事なんだ？
 
-![]({{site.baseurl}}/assets/img/so-do.jpg)
+![掲載画像：so-do]({{site.baseurl}}/assets/img/so-do.jpg)
 
 ## 11月
 
@@ -140,7 +140,7 @@ everyday撮影。大忙しの一か月。
 
 あてもなく、どこか目的地があるわけでもないが、どこかしらにつくだろうというのんびりとした『旅』。
 
-![]({{site.baseurl}}/assets/img/tositabako.jpg)
+![掲載画像：tositabako]({{site.baseurl}}/assets/img/tositabako.jpg)
 
 僕が愛煙家になったのはこの男が原因であるので、全責任も彼にある。山谷のドヤを歩きながら宿を探すも、門限を超えた時間であったのでどこも空いていなかった。終電も終わっていたので、結果として歩くしかなく、最も近くの快活クラブ（浅草）まで歩くことに。途中遊郭を通ったりとか、浅草夜のラーメンを味わったりなど、した。
 
@@ -152,7 +152,7 @@ now年末。博多に行った（何回目だ）。
 
 上がった後の僕の顔があまりにも老けていて面白かった。
 
-![]({{site.baseurl}}/assets/img/IMG_4591.jpg)
+![掲載画像：IMG_4591]({{site.baseurl}}/assets/img/IMG_4591.jpg)
 
 野外DJをやったり、MVを撮ったりなどもしていた。
 
@@ -164,21 +164,7 @@ now年末。博多に行った（何回目だ）。
 
 
 
-<div class="author-box">
-  <div class="author-portrait">
-    <img src="{{ '/assets/img/ganmen4.JPG' | relative_url }}" alt="Ganmen1281">
-  </div>
-  <div class="author-profile">
-    <h4>Ganmen1281</h4>
-    <p>
-      生まれも育ちも兵庫県南西部・播州。<br>
-      10代の青春をアニメ・特撮・映画に捧げるも、特に報われることもなく20代に突入する。<br>
-      映画に捧げた青春は映画に返してほしかったので、ビジュアルアーツ専門学校入学。<br>
-      特に返ってくることもなく、卒業。<br>
-      現在は映像制作者・Youtuber・DJ・ライターとして活動中。
-    </p>
-  </div>
-</div>
+
 
  [トップページに戻る]({{ "/" | relative_url }})
 
@@ -202,7 +188,7 @@ now年末。博多に行った（何回目だ）。
 [taian.pic]: https://www.instagram.com/taian.pic?igsh=MTZka3AyN2VhZzkzOQ%3D%3D&utm_source=qr
 [てるチキ]: https://x.com/chi_kiNgg
 [武内くん]: https://x.com/kuramutyauda252
-[としめ]:　https://enensoen.com/toshime/
+[としめ]: https://enensoen.com/toshime/
 [ここ]: https://enensoen.com/library/8-usbd6mkt/
 [原口沙輔]: https://x.com/sasuke_maschine
 [煙々創苑]: https://enensoen.com/library/

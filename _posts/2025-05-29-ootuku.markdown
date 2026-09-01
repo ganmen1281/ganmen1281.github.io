@@ -6,6 +6,10 @@ categories: 携わったもの,映像
 author: Ganmen1281
 tags:
   - works
+thumbnail: /assets/img/thumbnails/25-ootuku.png
+thumbnail_alt: 「おお阪 in da party」のイベント案内
+role: 配信技術統括・スイッチャー
+description: 「おお阪 in da party」で配信技術統括とスイッチャーを担当しました。
 ---
 
 配信技術統括・スイッチャーを担当しました。
@@ -26,33 +30,19 @@ tags:
 
 僕はスイッチャーを、喜多さんにはカメラマンを、羽坂さんにはケーブル周りとアシスタントを担当してもらいました。4カメ運用で、檀上抑えに[BMPCC4K]、俯瞰でiPhone、アクティブカメラで[ZV-e10]、[Gopro Hero11]で観客側を捉えるという体制です。
 
-![]({{site.baseurl}}/assets/img/IMG20250329121728.jpg)
+![掲載画像：IMG20250329121728]({{site.baseurl}}/assets/img/IMG20250329121728.jpg)
 
 カメラマン喜多とは無線でコミュニケーションを取りつつ、リアルタイムコーディングをしている最中のVJを捉えたり、あるいはサンプラーやその他複雑な設定を行うDJの手元を捉えたり、実は無意識的には目撃しているけれども、それに注視してみると、かっこいいよな...という部分を寄せ集めました。
 
 演者さんにも好評であったらしく、様々な方々からお褒めの言葉を頂き、大変光栄でした。
 
-![]({{site.baseurl}}/assets/img/annai2.png)
+![掲載画像：annai2]({{site.baseurl}}/assets/img/annai2.png)
 
-![]({{site.baseurl}}/assets/img/annnai3.png)
+![掲載画像：annnai3]({{site.baseurl}}/assets/img/annnai3.png)
 
-![]({{site.baseurl}}/assets/img/IMG_4841.jpg)
+![掲載画像：IMG_4841]({{site.baseurl}}/assets/img/IMG_4841.jpg)
 
-<div class="author-box">
-  <div class="author-portrait">
-    <img src="{{ '/assets/img/ganmen4.JPG' | relative_url }}" alt="Ganmen1281">
-  </div>
-  <div class="author-profile">
-    <h4>Ganmen1281</h4>
-    <p>
-      生まれも育ちも兵庫県南西部・播州。<br>
-      10代の青春をアニメ・特撮・映画に捧げるも、特に報われることもなく20代に突入する。<br>
-      映画に捧げた青春は映画に返してほしかったので、ビジュアルアーツ専門学校入学。<br>
-      特に返ってくることもなく、卒業。<br>
-      現在は映像制作者・Youtuber・DJ・ライターとして活動中。
-    </p>
-  </div>
-</div>
+
 
  [トップページに戻る]({{ "/" | relative_url }})
 

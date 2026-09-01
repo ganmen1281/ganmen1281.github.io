@@ -6,6 +6,10 @@ categories: 携わったもの,映像
 author: Ganmen1281
 tags:
   - works
+thumbnail: /assets/img/thumbnails/25-mitouP.png
+thumbnail_alt: ARシステム成果発表用映像の撮影風景
+role: 成果発表用映像制作
+description: 未踏IT人材発掘・育成事業内プロジェクトの成果発表用映像を制作しました。
 ---
 コンテ・撮影・照明・編集・整音を担当しました。
 <!--description-->
@@ -18,7 +22,7 @@ IPA(情報処理推進機構)によるプロジェクトのメンバーである
 
 あれよあれよと言う間に実写映像にシフトした訳ですが。
 
-![]({{site.baseurl}}/assets/img/monokko.jpg)
+![掲載画像：monokko]({{site.baseurl}}/assets/img/monokko.jpg)
 
 YOUTUBEで生配信される事を思うと、ラグを考慮してフレームレートは60でも良かったのかもしれませんが、映画的に見せたい！と言う要望を叶えるのはこれがベストだったかなあ、と。
 そもそもマシンパワーが足らないのでどうにも出来ませんが。
@@ -35,23 +39,9 @@ YOUTUBEで生配信される事を思うと、ラグを考慮してフレーム�
 
 peelのオレンジ味を頂いたのにも関わらず、現場に忘れてきちゃいました。
 
-![]({{site.baseurl}}/assets/img/monokko2.jpg)
+![掲載画像：monokko2]({{site.baseurl}}/assets/img/monokko2.jpg)
 
-<div class="author-box">
-  <div class="author-portrait">
-    <img src="{{ '/assets/img/ganmen4.JPG' | relative_url }}" alt="Ganmen1281">
-  </div>
-  <div class="author-profile">
-    <h4>Ganmen1281</h4>
-    <p>
-      生まれも育ちも兵庫県南西部・播州。<br>
-      10代の青春をアニメ・特撮・映画に捧げるも、特に報われることもなく20代に突入する。<br>
-      映画に捧げた青春は映画に返してほしかったので、ビジュアルアーツ専門学校入学。<br>
-      特に返ってくることもなく、卒業。<br>
-      現在は映像制作者・Youtuber・DJ・ライターとして活動中。
-    </p>
-  </div>
-</div>
+
 
  [トップページに戻る]({{ "/" | relative_url }})
 

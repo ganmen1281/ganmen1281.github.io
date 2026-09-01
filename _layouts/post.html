@@ -1,0 +1,41 @@
+---
+layout: default
+---
+<article class="post shell">
+  <header class="post__header">
+    {% unless page.tags contains 'intro' %}<a class="post__back" href="{% if page.tags contains 'zakki' %}{{ '/kakidame/' | relative_url }}{% elsif page.tags contains 'monthly' %}{{ '/monthly/' | relative_url }}{% else %}{{ '/works/' | relative_url }}{% endif %}">← 一覧へ</a>{% endunless %}
+    <p class="post__eyebrow">
+      {% if page.tags contains 'monthly' %}Monthly{% elsif page.tags contains 'zakki' %}Kakidame{% elsif page.tags contains 'intro' %}Profile{% else %}Works{% endif %}
+    </p>
+    <h1>{{ page.title }}</h1>
+    <div class="post__meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y.%m.%d" }}</time>
+      {% if page.role %}<span>{{ page.role }}</span>{% endif %}
+      {% for category in page.categories %}<span>{{ category }}</span>{% endfor %}
+    </div>
+    {% if page.description %}<p class="post__description">{{ page.description }}</p>{% endif %}
+  </header>
+  {% if page.credits or page.external_links %}
+    <aside class="post__details" aria-label="担当・クレジット・関連リンク">
+      {% if page.credits %}
+        <div>
+          <h2>Credits</h2>
+          <dl>
+            {% for credit in page.credits %}<div><dt>{{ credit.role }}</dt><dd>{{ credit.name }}</dd></div>{% endfor %}
+          </dl>
+        </div>
+      {% endif %}
+      {% if page.external_links %}
+        <div>
+          <h2>Links</h2>
+          <ul>
+            {% for link in page.external_links %}<li><a href="{{ link.url }}" target="_blank" rel="noopener noreferrer">{{ link.label }} ↗</a></li>{% endfor %}
+          </ul>
+        </div>
+      {% endif %}
+    </aside>
+  {% endif %}
+  <div class="post__body prose">
+    {{ content }}
+  </div>
+</article>

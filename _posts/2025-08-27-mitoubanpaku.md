@@ -6,30 +6,20 @@ categories: 携わったもの,映像
 author: Ganmen1281
 tags:
   - works
+thumbnail: /assets/img/thumbnails/25-mitou.png
+thumbnail_alt: 大阪・関西万博でのARシステム成果発表
+role: 成果発表用映像制作
+description: 大阪・関西万博のEXPOメッセで成果発表用映像が放映されました。
 ---
 
 大阪万博・EXPOメッセにて開催された[デジタル学園祭2025]にて、[『ユーザとモノのネットワーク体験を創作するためのARシステム』成果発表用映像]({{ site.baseurl }}{% post_url 2025-04-22-mitou %})が期間中に放映されました（2025年7月19日～20日）。
 
 未踏スーパークリエイターとして認定された三人（[大塚敏郎]さん・[後藤汰誓]さん・[石山遼]さん）。福岡から遠路はるばる大阪万博に訪れ、展示を行っていました。タイミング悪く僕は伺えず、石山さんとは会えず終いでしたが、万博後も後藤さんと大塚さんは大阪を満喫しておりました。
 
-![]({{site.baseurl}}/assets/img/expo2025-report-5.png)
+![掲載画像：expo2025-report-5]({{site.baseurl}}/assets/img/expo2025-report-5.png)
 [https://www.ipa.go.jp/jinzai/mitou/koubo/topics/expo2025-report.html]
 
-<div class="author-box">
-  <div class="author-portrait">
-    <img src="{{ '/assets/img/ganmen4.JPG' | relative_url }}" alt="Ganmen1281">
-  </div>
-  <div class="author-profile">
-    <h4>Ganmen1281</h4>
-    <p>
-      生まれも育ちも兵庫県南西部・播州。<br>
-      10代の青春をアニメ・特撮・映画に捧げるも、特に報われることもなく20代に突入する。<br>
-      映画に捧げた青春は映画に返してほしかったので、ビジュアルアーツ専門学校入学。<br>
-      特に返ってくることもなく、卒業。<br>
-      現在は映像制作者・Youtuber・DJ・ライターとして活動中。
-    </p>
-  </div>
-</div>
+
 
  [トップページに戻る]({{ "/" | relative_url }})
 
