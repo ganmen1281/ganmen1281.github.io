@@ -1,16 +1,16 @@
 <header class="site-header">
   {% assign intro_post = site.posts | where_exp: "post", "post.tags contains 'intro'" | first %}
   <div class="site-header__inner">
-    <a class="site-brand" href="{{ '/' | relative_url }}" aria-label="Ganmen の 森 トップページ">
-      <span class="site-brand__name">Ganmen <span>の</span> <em>森</em></span>
-      <span class="site-brand__sub">Portfolio &amp; notes</span>
+    <a class="site-brand" href="{{ '/' | relative_url }}" aria-label="顔面ハプニング トップページ">
+      <span class="site-brand__mark" aria-hidden="true">G</span>
+      <span class="site-brand__name">Ganmen1281</span>
     </a>
     <nav class="site-nav" aria-label="メインナビゲーション">
-      {% if intro_post %}<a href="{{ intro_post.url | relative_url }}">About</a>{% endif %}
-      <a href="{{ '/works/' | relative_url }}">Works</a>
-      <a href="{{ '/monthly/' | relative_url }}">Monthly</a>
-      <a href="{{ '/kakidame/' | relative_url }}">Kakidame</a>
-      <a href="{{ '/contact/' | relative_url }}">Contact</a>
+      {% if intro_post %}<a href="{{ intro_post.url | relative_url }}"{% if page.tags contains 'intro' or page.url == '/about/' %} aria-current="page"{% endif %}>About</a>{% endif %}
+      <a href="{{ '/works/' | relative_url }}"{% if page.url == '/works/' or page.tags contains 'works' or page.tags contains 'act' or page.tags contains 'hobby' %} aria-current="page"{% endif %}>Works</a>
+      {% if site.show_monthly != false %}<a href="{{ '/monthly/' | relative_url }}"{% if page.url == '/monthly/' or page.tags contains 'monthly' %} aria-current="page"{% endif %}>Monthly</a>{% endif %}
+      <a href="{{ '/kakidame/' | relative_url }}"{% if page.url == '/kakidame/' or page.tags contains 'zakki' %} aria-current="page"{% endif %}>Kakidame</a>
+      <a href="{{ '/contact/' | relative_url }}"{% if page.url == '/contact/' %} aria-current="page"{% endif %}>Contact</a>
     </nav>
   </div>
 </header>

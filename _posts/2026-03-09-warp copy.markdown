@@ -5,7 +5,7 @@ date: 2026-03-16 00:00:00 +0800
 categories: 携わったもの
 author: Ganmen1281
 tags:
-  - works
+  - act
 thumbnail: /assets/img/thumbnails/26-DJ.png
 thumbnail_alt: Nothing
 ---

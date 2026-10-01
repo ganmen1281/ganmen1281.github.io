@@ -18,16 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ganmen の 森
+title: 顔面ハプニング / Ganmen1281
 lang: ja
 email: ganmen1281douga@gmail.com
 description: >-
   Ganmen1281・顔面ハプニング・武木田樹の映像制作、ライブ配信、出演、文章をまとめたポートフォリオサイトです。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ganmen1281.github.io"
-og_image: /assets/img/og.png
+og_image: /assets/img/og-type.png
 twitter_username: ganmen1281
 github_username:  ganmen1281
+
+# Monthlyのメニュー表示。trueに戻すと再表示できます（記事とページは保持）。
+show_monthly: false
 
 # Build settings
 theme: jekyll-theme-hacker

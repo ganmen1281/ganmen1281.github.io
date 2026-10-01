@@ -5,7 +5,7 @@ date: 2026-08-04 00:00:00 +0800
 categories: 携わったもの
 author: Ganmen1281
 tags:
-  - works
+  - hobby
 thumbnail: /assets/img/thumbnails/26-enen.png
 thumbnail_alt: 煙々創苑の寄稿記事に使用したイラスト
 role: 寄稿

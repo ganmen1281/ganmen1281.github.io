@@ -5,7 +5,7 @@ date: 2025-12-26 00:00:00 +0800
 categories: 携わったもの
 author: Ganmen1281
 tags:
-  - works
+  - hobby
 thumbnail: /assets/img/thumbnails/25-enen.png
 thumbnail_alt: Nothing
 ---

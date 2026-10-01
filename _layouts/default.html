@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#ffffff">
+    <meta name="theme-color" content="#fafaf8">
     {% assign meta_title = page.title | default: site.title %}
     {% if page.url == '/' %}{% assign full_title = site.title %}{% else %}{% capture full_title %}{{ meta_title }} | {{ site.title }}{% endcapture %}{% endif %}
     {% assign meta_description = page.description | default: page.excerpt | default: site.description | strip_html | strip_newlines | truncate: 155 %}
@@ -16,17 +16,24 @@
     <meta property="og:title" content="{{ full_title | escape }}">
     <meta property="og:description" content="{{ meta_description | escape }}">
     <meta property="og:url" content="{{ page.url | absolute_url }}">
-    {% if page.thumbnail %}{% assign social_image = page.thumbnail %}{% elsif page.url == '/' %}{% assign social_image = site.og_image %}{% endif %}
-    {% if social_image %}<meta property="og:image" content="{{ social_image | absolute_url }}">{% endif %}
+    {% assign social_image = page.thumbnail | default: site.og_image %}
+    {% if social_image %}
+    <meta property="og:image" content="{{ social_image | absolute_url }}">
+    <meta property="og:image:alt" content="{% if page.thumbnail %}{{ page.thumbnail_alt | default: page.title | escape }}{% else %}顔面ハプニング / Ganmen1281{% endif %}">
+    {% if social_image == site.og_image %}<meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">{% endif %}
+    {% endif %}
     <meta name="twitter:card" content="{% if social_image %}summary_large_image{% else %}summary{% endif %}">
     <meta name="twitter:title" content="{{ full_title | escape }}">
     <meta name="twitter:description" content="{{ meta_description | escape }}">
     {% if social_image %}<meta name="twitter:image" content="{{ social_image | absolute_url }}">{% endif %}
-    <link rel="icon" href="{{ '/assets/img/favicon.svg' | relative_url }}" type="image/svg+xml">
+    <link rel="icon" href="{{ '/assets/img/favicon-g.svg' | relative_url }}" type="image/svg+xml">
+    <link rel="icon" href="{{ '/assets/img/favicon-g.png' | relative_url }}" type="image/png" sizes="32x32">
+    <link rel="apple-touch-icon" href="{{ '/assets/img/apple-touch-icon.png' | relative_url }}" sizes="180x180">
     <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ '/feed.xml' | relative_url }}">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&amp;family=Noto+Sans+JP:wght@400;500;600;700;800;900&amp;display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&amp;family=Noto+Sans+JP:wght@400;500;600;700;800&amp;display=swap" rel="stylesheet">
+    {% if page.url == '/' %}<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@900&amp;text=%E9%A1%94%E9%9D%A2%E3%83%8F%E3%83%97%E3%83%8B%E3%83%B3%E3%82%B0&amp;display=swap" rel="stylesheet">{% endif %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
     {% if page.layout == 'post' %}<script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":{{ page.title | jsonify }},"datePublished":"{{ page.date | date_to_xmlschema }}","author":{"@type":"Person","name":"Ganmen1281"},"mainEntityOfPage":"{{ page.url | absolute_url }}"}</script>{% endif %}
   </head>

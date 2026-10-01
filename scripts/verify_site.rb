@@ -12,7 +12,7 @@ errors = []
 warnings = []
 
 posts = ROOT.join("_posts").children.select(&:file?)
-original_images = ROOT.join("assets/img").children.select(&:file?).reject { |path| %w[favicon.svg og.png].include?(path.basename.to_s) }
+original_images = ROOT.join("assets/img").children.select(&:file?).reject { |path| %w[favicon.svg favicon-g.svg favicon-g.png apple-touch-icon.png og.png og-type.png].include?(path.basename.to_s) }
 audio = ROOT.join("assets/audio").children.select(&:file?)
 thumbnails = ROOT.join("assets/img/thumbnails").children.select(&:file?)
 
@@ -70,8 +70,8 @@ missing_internal.uniq.each { |page, url| errors << "内部リンク切れ: #{pag
 empty_alts.uniq.each { |page| warnings << "空のaltがあります: #{page}" }
 
 root_html = SITE.join("index.html").read(encoding: "UTF-8")
-errors << "トップのOGP画像が設定されていません" unless root_html.include?("/assets/img/og.png")
-errors << "faviconが設定されていません" unless root_html.include?("/assets/img/favicon.svg")
+errors << "トップのOGP画像が設定されていません" unless root_html.include?("/assets/img/og-type.png")
+errors << "faviconが設定されていません" unless root_html.include?("/assets/img/favicon-g.svg")
 errors << "Worksカードが27件ではありません" unless SITE.join("works/index.html").read(encoding: "UTF-8").scan(/class="work-card"/).size == 27
 errors << "Worksカードに表示用テキストが残っています" if SITE.join("works/index.html").read(encoding: "UTF-8").include?('work-card__content')
 errors << "詳細ページに先頭サムネイルが残っています" if html_files.any? { |path| path.read(encoding: "UTF-8").include?('post__hero') }
