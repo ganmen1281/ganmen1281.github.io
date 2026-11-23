@@ -116,7 +116,7 @@ window.STUDIO_CONTENT = {
       creditName: 'Annie beatz',
       role: 'トラックメイカー / コンポーザー / 音声',
       draft: false,
-      photo: 'assets/annie-beatz-icon.jpg',
+      photo: 'assets/annie-beatz-icon-v2.png',
       profile: 'ベースミュージック・ヒップホップ・ハイパーポップなどから影響を受け、ジャンルを横断する楽曲スタイルを得意としながら自身の名義での楽曲制作や、アーティストへの楽曲提供を行っている。\nある日突然現れた顔面ハプニングに銃口を突きつけられ、スタジオ顔面では主に番組や生配信での音声収録等の音周り全般を担当している。\n音楽を作り散らかしながら生きている。',
       selected: [
         { title: 'テレビアニメ"うたごえはミルフィーユ"内ユニット "Parabola"「BRAIN HACK」', role: '作曲', archive: false },
