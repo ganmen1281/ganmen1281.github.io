@@ -1,25 +1,7 @@
-# Ganmen の 森
+# スタジオ顔面
 
-Ganmen1281の仕事実績、Monthly、Kakidame、プロフィールを掲載するJekyll製ポートフォリオサイトです。GitHub Pagesでそのまま公開できます。
+公開先: https://ganmen1281.github.io/
 
-## 更新
+個人サイト: https://ganmen1281.github.io/personal/ （別リポジトリ ganmen1281/personal）
 
-初心者向けの手順は [UPDATE_GUIDE.md](UPDATE_GUIDE.md) を参照してください。新しい実績は `_drafts/work-template.md` をコピーして追加できます。
-
-## ローカル確認
-
-```powershell
-bundle install
-bundle exec jekyll serve
-```
-
-`http://127.0.0.1:4000/` を開いて確認します。
-
-## 構成
-
-- `_posts/`：すべての記事
-- `_layouts/`：共通レイアウト
-- `_includes/`：ヘッダー、フッター、実績カード
-- `assets/img/thumbnails/`：正方形サムネイル
-- `assets/css/style.scss`：デザイン
-- `works.md`、`kakidame.md`、`monthly.md`、`about.markdown`：各一覧ページ
+HTML/JS/CSSと使用中の素材だけを公開する静的サイトです。content.jsで掲載内容を更新します。旧個人サイトの記事URLはpersonalへの移転案内を保持しています。GitHub Pagesはmainブランチのルートから配信します。
