@@ -223,3 +223,12 @@ button.member-summary{width:100%;text-align:left;background:none;border:0;color:
 .all-works details[open] .archive-toggle:before{transform:rotate(225deg);inset:5px 3px 1px}
 
 .all-works summary{gap:2px;padding-bottom:8px}
+/* スマホのヘッダーはロゴ・操作とナビを2段の枠内に収めます。 */
+@media(max-width:600px){
+  :root{--header:96px}
+  .header{height:auto;min-height:var(--header);display:grid;grid-template-columns:minmax(0,1fr) auto;grid-template-rows:48px 28px;gap:2px 12px;padding:8px var(--gutter)}
+  .header .brand{grid-column:1;grid-row:1;justify-self:start;margin:0}
+  .header .header-controls{grid-column:2;grid-row:1;justify-self:end;margin:0}
+  .header nav{grid-column:1/-1;grid-row:2;width:100%;margin:0;align-self:stretch;align-items:center;font-size:14px;gap:13px}
+  .header nav a{min-height:28px}
+}
